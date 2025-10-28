@@ -73,29 +73,30 @@ def generate():
     # print(f"GPU {local_rank}: 处理 {len(local_data)} 个样本 (索引 {start_idx}-{end_idx-1})")
 
     for pid, prompt in local_data:
-        prompt_neg = [" "]
-        print(f"GPU {local_rank}: {pid} - {prompt}")
+        if pid == 100:
+            prompt_neg = [" "]
+            print(f"GPU {local_rank}: {pid} - {prompt}")
 
-        prompt_embeds, prompt_embeds_mask = encode([prompt], pipe.text_encoder)
-        prompt_embeds_neg, prompt_embeds_mask_neg = pipe._get_qwen_prompt_embeds(
-            prompt                = prompt_neg,
-            device                = accelerator.device,
-        )
+            prompt_embeds, prompt_embeds_mask = encode([prompt], pipe.text_encoder)
+            prompt_embeds_neg, prompt_embeds_mask_neg = pipe._get_qwen_prompt_embeds(
+                prompt                = prompt_neg,
+                device                = accelerator.device,
+            )
 
-        image = pipe(
-            prompt_embeds               = prompt_embeds,
-            prompt_embeds_mask          = prompt_embeds_mask,
-            negative_prompt_embeds      = prompt_embeds_neg,
-            negative_prompt_embeds_mask = prompt_embeds_mask_neg,
-            true_cfg_scale              = 5.0,
-            num_inference_steps         = 50,
-            height                      = 512,
-            width                       = 512,
-        ).images[0]
+            image = pipe(
+                prompt_embeds               = prompt_embeds,
+                prompt_embeds_mask          = prompt_embeds_mask,
+                negative_prompt_embeds      = prompt_embeds_neg,
+                negative_prompt_embeds_mask = prompt_embeds_mask_neg,
+                true_cfg_scale              = 5.0,
+                num_inference_steps         = 50,
+                height                      = 512,
+                width                       = 512,
+            ).images[0]
 
-        save_name = f"/data/phd/jinjiachun/codebase/qimagined-goggles/asset/gemini_flash_2047_full/{pid}.png"
+            save_name = f"/data/phd/jinjiachun/codebase/{pid}.png"
 
-        image.save(save_name)
+            image.save(save_name)
 
 
 if __name__ == "__main__":
