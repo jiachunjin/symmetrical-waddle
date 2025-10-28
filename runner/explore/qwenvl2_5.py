@@ -34,7 +34,7 @@ After receiving the user’s prompt that needs rewriting, first explain your rea
 Prompt: 
 """
 
-PROMPT = f"<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n" + PROMPT + "\n"
+PROMPT = f"<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n" + PROMPT
 
 for item in data:
     prompt = item["Prompt"]
@@ -72,4 +72,5 @@ for item in data:
     output_text = output_text
 
     print(output_text)
-    print("="*20)
+    print("="*80)
+    exit(0)
