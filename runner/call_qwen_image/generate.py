@@ -38,6 +38,8 @@ def generate():
     pipe = QwenImagePipeline.from_pretrained("/data/phd/jinjiachun/ckpt/Qwen/Qwen-Image", torch_dtype=dtype)
     pipe = pipe.to(accelerator.device, dtype)
 
+    print("load done!")
+
     local_rank = accelerator.local_process_index
     # path = "data/rewritten_wise/gemini_clean.jsonl"
 
@@ -72,7 +74,8 @@ def generate():
 
     # print(f"GPU {local_rank}: 处理 {len(local_data)} 个样本 (索引 {start_idx}-{end_idx-1})")
 
-    for pid, prompt in local_data:
+    # for pid, prompt in local_data:
+    while True:
 
         response = "The original prompt is a good starting point, but it could be more descriptive to guide an image generation model effectively. Here's my reasoning for optimization:  *   **\"Unfinished basilica\"**: This is a bit vague. How unfinished? What does that look like visually? Is it just a shell, or are there details present? *   **\"Masterpiece of Catalan Modernism\"**: While this sets a style, it doesn't describe *what* that looks like. We need to break down the visual characteristics of Catalan Modernism. *   **\"Intricate facades\"**: Again, \"intricate\" is good, but we can be more specific about *how* they are intricate.  My goal is to add visual detail and clarify the state of the basilica to make it easier for the AI to render a compelling image.  Revised Prompt: {A grand, partially completed basilica, showcasing the distinctive architectural style of Catalan Modernism. Its exterior facades are adorned with elaborate, organic, and flowing patterns, featuring a rich palette of warm colors like terracotta, ochre, and burnt orange. The stone work is detailed with sculpted figures and geometric shapes, creating a sense of dynamic movement across the surfaces. Some areas of the structure are still bare or under construction, revealing rough-hewn stone and incomplete arches, while others display fully realized, ornate decorations. The overall impression is one of a magnificent, unfinished work of art, bathed in natural light.}"
 
