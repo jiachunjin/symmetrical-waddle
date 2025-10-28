@@ -83,7 +83,8 @@ def generate():
         print(prompt)
 
         prompt_neg = [" "]
-        print(f"GPU {local_rank}: {pid} - {prompt}")
+        # print(f"GPU {local_rank}: {pid} - {prompt}")
+        print(local_rank, prompt)
 
         prompt_embeds, prompt_embeds_mask = encode([prompt], pipe.text_encoder)
         prompt_embeds_neg, prompt_embeds_mask_neg = pipe._get_qwen_prompt_embeds(
