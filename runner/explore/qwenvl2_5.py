@@ -4,9 +4,8 @@ import torch
 from transformers import AutoModelForImageTextToText, AutoTokenizer
 from accelerate import Accelerator
 
-qwenvl = AutoModelForImageTextToText.from_pretrained("/data/phd/kousiqi/yugang/LLaMA-Factory/saves/qwen2_5vl-7b/full/sft_0.5_raw")
-tokenizer = AutoTokenizer.from_pretrained("/data/phd/kousiqi/yugang/LLaMA-Factory/saves/qwen2_5vl-7b/full/sft_0.5_raw")
-
+qwenvl = AutoModelForImageTextToText.from_pretrained("/data/phd/jinjiachun/experiment/sft_qwenvl/gemini_flash_2047_full")
+tokenizer = AutoTokenizer.from_pretrained("/data/phd/jinjiachun/experiment/sft_qwenvl/gemini_flash_2047_full")
 
 
 device = torch.device("cuda:0")
@@ -25,6 +24,17 @@ for json_file_name in json_file_names:
         data = json.load(f)
         all_data.extend(data)
 
+PROMPT = """You are a Prompt Optimizer specializing in image generation models (e.g., MidJourney, Stable Diffusion). Your core task is to rewrite user-provided prompts into highly clear, easy-to-render versions.
+When rewriting, prioritize the following principles:
+1. Focus on describing the final visual appearance of the scene. Clarify elements like the main subject’s shape, color, and state.
+2. Emphasize descriptions of on-screen phenomena. Use concrete, sensory language to paint a vivid picture of what the viewer will see.
+3. Minimize the use of professional terms. If technical concepts are necessary, translate them into intuitive visual descriptions.
+After receiving the user’s prompt that needs rewriting, first explain your reasoning for optimization. Then, output the final revised prompt in the fixed format of "Revised Prompt: {}", where the specific revised content is filled in the "{}".
+
+Prompt: 
+"""
+
+PROMPT = f"<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n" + PROMPT + "\n"
 
 for item in data:
     prompt = item["Prompt"]
@@ -35,13 +45,12 @@ for item in data:
 
 
     original_prompt = original_prompt.strip()
+    prompt = PROMPT + original_prompt + "\n<|im_start|>assistant\n"
 
-    txt = f"<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nYou are a Prompt Optimizer specialized in image generation models(e.g., MidJourney, Stable Diffusion). Your core task is to rewrite the user-provided prompt into a highly clear version—this helps image generation models accurately comprehend the user’s intent.\nSince image generation models have limited ability to understand vague descriptions, you must first fully grasp the user's core intent, then replace ambiguous content in the original prompt with explicit details. While optimizing, you may use background knowledge like scientific facts, cultural common sense, and logical reasoning. You should also supplement key details when it is necessary for image generation model to understand the user's in\nIf the user provides only text, the task is text-to-image generation; if the user provides both text and an image, the task is image editing (which means you must first fully understand the raw image, then rewrite the prompt for image editing task). Below you will be given the user's input. \nAfter receiving the user’s prompt that needs rewriting, output the final revised prompt in this fixed format: Revised Prompt: {{}}, where the specific revised content is filled in the {{}}.\n{original_prompt}<|im_end|>\n<|im_start|>assistant\n"
-
-    print(txt)
+    print(prompt)
 
     txt_tokens = tokenizer(
-        txt, max_length=10240, padding=True, truncation=True, return_tensors="pt"
+        prompt, max_length=10240, padding=True, truncation=True, return_tensors="pt"
     ).to(device)
 
     generation_output = qwenvl.generate(
