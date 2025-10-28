@@ -15,13 +15,13 @@ tokenizer = AutoTokenizer.from_pretrained("/data/phd/jinjiachun/experiment/sft_q
 qwenvl = qwenvl.to(device, dtype)
 qwenvl.eval()
 
-json_path = "/data/phd/jinjiachun/codebase/WISE/data"
+# json_path = "/data/phd/jinjiachun/codebase/WISE/data"
 json_file_names = ["data/wise/cultural_common_sense.json", "data/wise/natural_science.json", "data/wise/spatio-temporal_reasoning.json"]
 
 # 首先收集所有数据
 all_data = []
 for json_file_name in json_file_names:
-    with open(os.path.join(json_path, json_file_name), "r") as f:
+    with open(json_file_name, "r") as f:
         data = json.load(f)
         all_data.extend(data)
 
