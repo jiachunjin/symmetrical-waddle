@@ -47,7 +47,7 @@ local_data = all_data[start_idx:end_idx]
 
 print(f"GPU {local_rank}: 处理 {len(local_data)} 个样本 (索引 {start_idx}-{end_idx-1})")
 
-with open(f"data/rewritten_wise/after_sft/g{local_rank}.jsonl", "w") as f:
+with open(f"data/re_wise_final/g{local_rank}.jsonl", "w") as f:
     for item in tqdm(local_data):
         prompt = item["Prompt"]
         prompt_id = item["prompt_id"]
