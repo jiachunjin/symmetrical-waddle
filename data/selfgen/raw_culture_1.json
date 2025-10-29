@@ -1,0 +1,2144 @@
+[
+{
+"Prompt": "A traditional Scottish dish made from sheep's heart, liver, and lungs, minced with onion, oatmeal, and spices",
+"Explanation": "Refers to Haggis, often served with neeps and tatties (turnips and potatoes)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 245
+},
+{
+"Prompt": "A famous Italian pasta dish from Rome, made with eggs, cheese, pancetta, and black pepper",
+"Explanation": "Refers to Spaghetti Carbonara, known for its creamy, egg-based sauce",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 246
+},
+{
+"Prompt": "A classic French stew made with chicken, wine, mushrooms, and garlic",
+"Explanation": "Refers to Coq au Vin, a symbol of French rustic cooking",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 247
+},
+{
+"Prompt": "A Japanese soup made from dashi stock, miso paste, and ingredients like tofu and seaweed",
+"Explanation": "Refers to Miso Soup, a staple of the traditional Japanese breakfast",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 248
+},
+{
+"Prompt": "A Spanish dish of rice cooked with seafood, saffron, and various other ingredients in a single pan",
+"Explanation": "Refers to Paella, originating from Valencia",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 249
+},
+{
+"Prompt": "A popular Greek dish of roasted meat, often lamb or chicken, cooked on a vertical rotisserie",
+"Explanation": "Refers to Gyros, typically served wrapped in pita bread with tomato, onion, and tzatziki sauce",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 250
+},
+{
+"Prompt": "A hearty Brazilian stew of black beans with pork and beef, considered a national dish",
+"Explanation": "Refers to Feijoada, often served with rice, collard greens, and orange slices",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 251
+},
+{
+"Prompt": "A Belgian dish of mussels cooked in a pot with white wine, celery, and onions",
+"Explanation": "Refers to Moules-frites, which is mussels served with French fries",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 252
+},
+{
+"Prompt": "A traditional Mexican dish of a corn tortilla rolled around a filling and covered with chili sauce",
+"Explanation": "Refers to Enchiladas, a common and versatile Mexican comfort food",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 253
+},
+{
+"Prompt": "A famous Austrian pastry, a thin layer of dough topped with fruit, often apple, and crumbs",
+"Explanation": "Refers to Apfelstrudel, often served warm with vanilla sauce or ice cream",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 254
+},
+{
+"Prompt": "A classic American sandwich consisting of a ground beef patty placed inside a bun",
+"Explanation": "Refers to the Hamburger, an iconic symbol of American fast food culture",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 255
+},
+{
+"Prompt": "A traditional English breakfast typically including bacon, eggs, sausages, beans, and toast",
+"Explanation": "Refers to the Full English Breakfast, a hearty start to the day",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 256
+},
+{
+"Prompt": "A Canadian dish of french fries, cheese curds, and gravy",
+"Explanation": "Refers to Poutine, originating from Quebec and popular across Canada",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 257
+},
+{
+"Prompt": "A Vietnamese soup consisting of broth, rice noodles, herbs, and meat, often beef or chicken",
+"Explanation": "Refers to Phở, a staple of Vietnamese cuisine known for its aromatic broth",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 258
+},
+{
+"Prompt": "A Korean side dish of fermented vegetables, most commonly napa cabbage and Korean radishes",
+"Explanation": "Refers to Kimchi, known for its spicy and tangy flavor",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 259
+},
+{
+"Prompt": "An Indian dish of marinated chicken cooked in a tandoor, a cylindrical clay oven",
+"Explanation": "Refers to Tandoori Chicken, recognizable by its vibrant red color from spices",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 260
+},
+{
+"Prompt": "A Turkish dish of seasoned meat cooked on a vertical rotisserie",
+"Explanation": "Refers to Döner Kebab, often served in bread or on a plate with rice and salad",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 261
+},
+{
+"Prompt": "A Peruvian dish of raw fish cured in fresh citrus juices, often leche de tigre, and spiced with chili",
+"Explanation": "Refers to Ceviche, a refreshing and zesty seafood dish",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 262
+},
+{
+"Prompt": "A Moroccan dish of a cone-shaped pile of steamed couscous, typically topped with meat and vegetables",
+"Explanation": "Refers to Couscous, a staple food throughout North Africa",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 263
+},
+{
+"Prompt": "A Russian soup made with beets, giving it a distinctive red color, often served with a dollop of sour cream",
+"Explanation": "Refers to Borscht, a classic Eastern European dish",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 264
+},
+{
+"Prompt": "A festive German drink made from red wine, heated and spiced with cinnamon, cloves, and citrus",
+"Explanation": "Refers to Glühwein, commonly enjoyed at Christmas markets",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 265
+},
+{
+"Prompt": "A traditional Japanese alcoholic beverage made from fermented rice",
+"Explanation": "Refers to Sake, often served warm in small cups",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 266
+},
+{
+"Prompt": "A popular Argentine drink made from dried leaves steeped in hot water, often shared socially",
+"Explanation": "Refers to Mate, traditionally drunk from a gourd with a metal straw",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 267
+},
+{
+"Prompt": "A classic Russian fermented beverage made from rye bread, known for its slight fizz and sour taste",
+"Explanation": "Refers to Kvass, a common non-alcoholic drink",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 268
+},
+{
+"Prompt": "A traditional Ethiopian coffee ceremony, where coffee is roasted, brewed, and served in a ritualistic manner",
+"Explanation": "Refers to the Ethiopian Coffee Ceremony, a central part of social and cultural life",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 269
+},
+{
+"Prompt": "A famous Italian dessert made from layers of coffee-soaked ladyfingers and mascarpone cheese",
+"Explanation": "Refers to Tiramisu, meaning 'pick me up' in Italian",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 270
+},
+{
+"Prompt": "A traditional Irish bread made with soda instead of yeast, often containing raisins or currants",
+"Explanation": "Refers to Irish Soda Bread, a staple in Irish cuisine",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 271
+},
+{
+"Prompt": "A Polish dumpling, filled with ingredients like potato, cheese, meat, or fruit",
+"Explanation": "Refers to Pierogi, a beloved comfort food in Central and Eastern Europe",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 272
+},
+{
+"Prompt": "A famous French pastry known for its flaky, buttery layers and crescent shape",
+"Explanation": "Refers to the Croissant, a staple of French breakfasts",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 273
+},
+{
+"Prompt": "A traditional Scottish garment, a knee-length skirt-like garment with a tartan pattern",
+"Explanation": "Refers to the Kilt, often worn at formal events and Highland games",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 274
+},
+{
+"Prompt": "A traditional Korean dress, known for its vibrant colors and simple lines, often worn on festive occasions",
+"Explanation": "Refers to the Hanbok, characterized by its wrap-around jacket and full skirt",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 275
+},
+{
+"Prompt": "A traditional Japanese garment, a robe-like dress tied with a sash",
+"Explanation": "Refers to the Kimono, often worn for special occasions like weddings and tea ceremonies",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 276
+},
+{
+"Prompt": "A traditional Indian garment for women, a long piece of cloth draped elegantly around the body",
+"Explanation": "Refers to the Sari, a symbol of grace and cultural identity",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 277
+},
+{
+"Prompt": "A traditional Arabian garment for men, a long white robe worn in many Gulf countries",
+"Explanation": "Refers to the Thobe or Dishdasha, ideal for the hot desert climate",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 278
+},
+{
+"Prompt": "A traditional headscarf worn by men in many Arab cultures, often held in place by a cord",
+"Explanation": "Refers to the Keffiyeh or Ghutra, a symbol of identity and heritage",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 279
+},
+{
+"Prompt": "A traditional Filipino shirt for men, embroidered and often made from pineapple fiber",
+"Explanation": "Refers to the Barong Tagalog, a formal wear item worn untucked",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 280
+},
+{
+"Prompt": "A traditional Mexican dress for women, known for its bright colors and flared skirt",
+"Explanation": "Refers to the China Poblana, often worn during cultural celebrations like Cinco de Mayo",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 281
+},
+{
+"Prompt": "A traditional Russian headdress for women, often decorated with pearls and intricate designs",
+"Explanation": "Refers to the Kokoshnik, worn with the traditional Sarafan dress",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 282
+},
+{
+"Prompt": "A traditional Hawaiian shirt, often featuring bold floral patterns",
+"Explanation": "Refers to the Aloha Shirt, a symbol of casual island lifestyle",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 283
+},
+{
+"Prompt": "A traditional Swiss wind instrument, made of wood and known for its distinctive sound",
+"Explanation": "Refers to the Alphorn, used for communication in the mountains and at cultural festivals",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 284
+},
+{
+"Prompt": "A traditional Australian Aboriginal wind instrument, known for its deep, droning sound",
+"Explanation": "Refers to the Didgeridoo, one of the world's oldest musical instruments",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 285
+},
+{
+"Prompt": "A traditional Spanish dance and guitar style, characterized by its passionate and rhythmic nature",
+"Explanation": "Refers to Flamenco, originating from the Andalusia region",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 286
+},
+{
+"Prompt": "A traditional Argentinian dance, known for its dramatic and intimate movements",
+"Explanation": "Refers to the Tango, a UNESCO Intangible Cultural Heritage",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 287
+},
+{
+"Prompt": "A traditional Austrian folk dance, often associated with the Alps, involving slapping the body and shoes",
+"Explanation": "Refers to the Schuhplattler, a lively couple's dance",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 288
+},
+{
+"Prompt": "A traditional Irish dance performance known for rapid leg and foot movements while the body and arms are kept still",
+"Explanation": "Refers to Irish Stepdance, popularized by shows like Riverdance",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 289
+},
+{
+"Prompt": "A traditional Russian string instrument with a triangular body and three strings",
+"Explanation": "Refers to the Balalaika, a symbol of Russian folk music",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 290
+},
+{
+"Prompt": "A traditional Greek string instrument, a type of lute, central to Rebetiko music",
+"Explanation": "Refers to the Bouzouki, known for its distinctive metallic sound",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 291
+},
+{
+"Prompt": "A traditional West African string instrument, a lute-harp with a skin-covered gourd body",
+"Explanation": "Refers to the Kora, known for its intricate melodic patterns",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 292
+},
+{
+"Prompt": "A traditional Andean panpipe, essential to the music of the indigenous peoples of the Andes",
+"Explanation": "Refers to the Zampoña, often played in groups",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 293
+},
+{
+"Prompt": "A traditional Chinese plucked string instrument, with a long fretboard and a rounded body",
+"Explanation": "Refers to the Pipa, known for its expressive and vibrant sound",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 294
+},
+{
+"Prompt": "A traditional Indian string instrument, known for its resonant, sympathetic strings and intricate carvings",
+"Explanation": "Refers to the Sitar, popularized in the West by Ravi Shankar",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 295
+},
+{
+"Prompt": "A traditional Japanese drum, often large and played with sticks called bachi",
+"Explanation": "Refers to the Taiko, used in powerful and rhythmic ensemble performances",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 296
+},
+{
+"Prompt": "A traditional Scottish bagpipe, used in military, folk, and ceremonial music",
+"Explanation": "Refers to the Great Highland Bagpipe, an iconic symbol of Scotland",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 297
+},
+{
+"Prompt": "A traditional Ukrainian string instrument, known as the 'bandura', with a teardrop-shaped body",
+"Explanation": "Refers to the Bandura, used by traveling folk minstrels known as kobzars",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 298
+},
+{
+"Prompt": "A traditional Middle Eastern percussion instrument, a goblet drum held under the arm",
+"Explanation": "Refers to the Darbuka or Doumbek, essential to Arabic, Persian, and Turkish music",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 299
+},
+{
+"Prompt": "A traditional Hawaiian dance characterized by graceful hand movements that tell a story",
+"Explanation": "Refers to the Hula, often accompanied by chant or song",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 300
+},
+{
+"Prompt": "A traditional Maori war dance from New Zealand, involving vigorous movements, rhythmic shouts, and facial contortions",
+"Explanation": "Refers to the Haka, performed to show a tribe's pride, strength, and unity",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 301
+},
+{
+"Prompt": "A traditional Polish folk dance from the highlands, known for its energetic kicks and spins",
+"Explanation": "Refers to the Goralski or Polish Highlanders' Dance",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 302
+},
+{
+"Prompt": "A traditional Turkish folk dance, performed by men in a line, symbolizing brotherhood and unity",
+"Explanation": "Refers to the Horon, characterized by fast shoulder and hip movements",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 303
+},
+{
+"Prompt": "A traditional Korean dance, often performed by female dancers in colorful hanboks, characterized by its graceful and fluid movements",
+"Explanation": "Refers to the Buchaechum or Fan Dance",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 304
+},
+{
+"Prompt": "A traditional Chinese art form combining music, vocal performance, mime, dance, and acrobatics",
+"Explanation": "Refers to Peking Opera, known for its elaborate costumes and makeup",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 305
+},
+{
+"Prompt": "A traditional Japanese form of theater featuring highly stylized song, mime, and dance, performed by male actors",
+"Explanation": "Refers to Kabuki, known for its dramatic makeup and elaborate costumes",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 306
+},
+{
+"Prompt": "A traditional Japanese theater using intricate wooden puppets, each operated by three puppeteers",
+"Explanation": "Refers to Bunraku, accompanied by narrative chanting and shamisen music",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 307
+},
+{
+"Prompt": "A traditional form of Italian comic opera",
+"Explanation": "Refers to Opera Buffa, known for its humorous and everyday themes",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 308
+},
+{
+"Prompt": "A traditional form of Italian serious opera",
+"Explanation": "Refers to Opera Seria, known for its historical or mythological themes and formal structure",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 309
+},
+{
+"Prompt": "A traditional English folk play, often performed around Christmas, involving a symbolic death and resurrection",
+"Explanation": "Refers to the Mummers' Play, featuring characters like St. George and the Dragon",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 310
+},
+{
+"Prompt": "A traditional form of Sicilian puppet theater, featuring large, ornate puppets in armor",
+"Explanation": "Refers to the Opera dei Pupi, depicting stories of medieval chivalry",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 311
+},
+{
+"Prompt": "A traditional form of Indonesian puppet theater, where shadows are cast on a screen",
+"Explanation": "Refers to Wayang Kulit, often based on Hindu epics like the Ramayana and Mahabharata",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 312
+},
+{
+"Prompt": "A traditional form of Korean mask dance drama, satirizing the aristocracy and monks",
+"Explanation": "Refers to Talchum, combining dance, music, and theater",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 313
+},
+{
+"Prompt": "A traditional form of Vietnamese water puppetry, performed in a waist-deep pool",
+"Explanation": "Refers to Múa rối nước, depicting scenes of rural life and legends",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 314
+},
+{
+"Prompt": "A traditional form of Spanish satirical theater, characterized by improvised jokes and sketches",
+"Explanation": "Refers to the Sainete, often dealing with everyday life in the working-class neighborhoods",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 315
+},
+{
+"Prompt": "A traditional form of French pantomime, featuring a white-faced character",
+"Explanation": "Refers to Pierrot, a sad clown character from the Commedia dell'arte tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 316
+},
+{
+"Prompt": "A traditional form of Russian folk theater, performed by wandering minstrels",
+"Explanation": "Refers to the Skomorokh, known for its comedic and acrobatic performances",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 317
+},
+{
+"Prompt": "A traditional form of Egyptian shadow theater, often used for social and political satire",
+"Explanation": "Refers to Khayal al-zill, using leather puppets",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 318
+},
+{
+"Prompt": "A traditional form of Thai dance drama, known for its ornate costumes and graceful, stylized movements",
+"Explanation": "Refers to Khon, often depicting scenes from the Ramakien (the Thai version of the Ramayana)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 319
+},
+{
+"Prompt": "A traditional form of Burmese marionette theater, with intricate puppets controlled by many strings",
+"Explanation": "Refers to Yoke thé, a highly developed art form in Myanmar",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 320
+},
+{
+"Prompt": "A traditional form of Iranian passion play, reenacting the martyrdom of Hussein, the grandson of the Prophet Muhammad",
+"Explanation": "Refers to Ta'zieh, a Shi'a Islamic ritual",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 321
+},
+{
+"Prompt": "A traditional form of Chinese acrobatics, known for its precision, flexibility, and balance",
+"Explanation": "Refers to Chinese Acrobatics, often involving diabolo, plate-spinning, and contortion",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 322
+},
+{
+"Prompt": "A traditional form of Japanese comedic theater, involving two performers and rapid, witty dialogue",
+"Explanation": "Refers to Manzai, similar to a stand-up comedy duo",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 323
+},
+{
+"Prompt": "A traditional form of Filipino martial arts, also known as Kali or Eskrima, focusing on weapon-based fighting",
+"Explanation": "Refers to Arnis, the national martial art and sport of the Philippines",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 324
+},
+{
+"Prompt": "A traditional Korean martial art known for its high, spinning kicks",
+"Explanation": "Refers to Taekwondo, an Olympic sport and Korea's national martial art",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 325
+},
+{
+"Prompt": "A traditional Chinese martial art known for its flowing, circular movements and internal power",
+"Explanation": "Refers to Tai Chi, often practiced for health and meditation as well as self-defense",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 326
+},
+{
+"Prompt": "A traditional Japanese martial art of archery, emphasizing discipline and spiritual development",
+"Explanation": "Refers to Kyūdō, 'the way of the bow'",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 327
+},
+{
+"Prompt": "A traditional Japanese martial art of swordsmanship, using bamboo swords and protective armor",
+"Explanation": "Refers to Kendo, 'the way of the sword'",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 328
+},
+{
+"Prompt": "A traditional Japanese martial art of unarmed combat, focusing on throws and joint locks",
+"Explanation": "Refers to Jujutsu, a precursor to Judo and Aikido",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 329
+},
+{
+"Prompt": "A traditional Japanese martial art of unarmed combat, derived from Jujutsu, emphasizing throws and pins",
+"Explanation": "Refers to Judo, an Olympic sport founded by Jigoro Kano",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 330
+},
+{
+"Prompt": "A traditional Japanese martial art that focuses on harmonizing with an opponent's energy, using throws and joint locks",
+"Explanation": "Refers to Aikido, founded by Morihei Ueshiba",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 331
+},
+{
+"Prompt": "A traditional Chinese martial art known for its模仿动物 movements and powerful strikes",
+"Explanation": "Refers to Kung Fu or Wushu, a vast system of fighting styles like Shaolin Kung Fu",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 332
+},
+{
+"Prompt": "A traditional Indonesian martial art, incorporating strikes, joint manipulation, and weaponry",
+"Explanation": "Refers to Pencak Silat, recognized by UNESCO as an Intangible Cultural Heritage",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 333
+},
+{
+"Prompt": "A traditional Brazilian martial art and dance, combining elements of acrobatics, music, and ritual",
+"Explanation": "Refers to Capoeira, developed by enslaved Africans in Brazil",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 334
+},
+{
+"Prompt": "A traditional French martial art that combines boxing with graceful kicking",
+"Explanation": "Refers to Savate, also known as French kickboxing",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 335
+},
+{
+"Prompt": "A traditional Korean martial art focused on hand strikes, similar to Karate",
+"Explanation": "Refers to Tang Soo Do, a popular discipline worldwide",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 336
+},
+{
+"Prompt": "A traditional form of wrestling from Mongolia, a central part of the Naadam festival",
+"Explanation": "Refers to Bökh, where wrestlers wear a specific jacket and shorts",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 337
+},
+{
+"Prompt": "A traditional form of wrestling from Turkey, involving the use of olive oil",
+"Explanation": "Refers to Yağlı Güreş or Oil Wrestling, Turkey's national sport",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 338
+},
+{
+"Prompt": "A traditional form of stick-fighting from Egypt, known as 'the game of sticks'",
+"Explanation": "Refers to Tahtib, both a martial art and a folk dance",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 339
+},
+{
+"Prompt": "A traditional form of fencing from Germany, using long, two-handed swords, as depicted in medieval manuscripts",
+"Explanation": "Refers to German Longsword Fencing, part of the historical European martial arts (HEMA) tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 340
+},
+{
+"Prompt": "A traditional Scottish martial art of wrestling while wearing a kilt",
+"Explanation": "Refers to Scottish Backhold Wrestling, a style with specific holds and rules",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 341
+},
+{
+"Prompt": "A traditional form of boxing from Myanmar, allowing the use of fists, feet, elbows, and knees",
+"Explanation": "Refers to Lethwei, known as the 'art of nine limbs'",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 342
+},
+{
+"Prompt": "A traditional form of wrestling from Iceland, considered the national sport",
+"Explanation": "Refers to Glíma, a style where the goal is to make the opponent touch the ground",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 343
+},
+{
+"Prompt": "A traditional form of stick-fighting from Kenya, practiced by the Maasai people",
+"Explanation": "Refers to Maasai Stick Fighting, a rite of passage and a way to settle disputes",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 344
+},
+{
+"Prompt": "A traditional form of wrestling from Senegal, known for its striking and acrobatic techniques",
+"Explanation": "Refers to Laamb or Senegalese Wrestling, a hugely popular sport",
+"Category": "Cultural Knowledge",
+"Subcategory": "Martial Arts",
+"prompt_id": 345
+},
+{
+"Prompt": "A traditional board game from India, involving two players moving pieces based on dice rolls, with the goal of bearing off all pieces first",
+"Explanation": "Refers to Backgammon, known as 'Nard' in some cultures, a game of strategy and luck",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 346
+},
+{
+"Prompt": "A traditional abstract strategy game from Ghana, played on a wooden board with two rows of pits",
+"Explanation": "Refers to Oware or Mancala, a count-and-capture game",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 347
+},
+{
+"Prompt": "A traditional strategy board game for two players, originating in India, where the goal is to checkmate the opponent's king",
+"Explanation": "Refers to Chess, one of the world's oldest and most popular games",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 348
+},
+{
+"Prompt": "A traditional Chinese strategy board game for two players, played on a grid with black and white stones",
+"Explanation": "Refers to Go or Weiqi, known for its deep strategic complexity",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 349
+},
+{
+"Prompt": "A traditional Japanese strategy board game for two players, a variant of Chess",
+"Explanation": "Refers to Shogi, known as Japanese Chess",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 350
+},
+{
+"Prompt": "A traditional dice game popular in pubs, involving five dice and a scoresheet",
+"Explanation": "Refers to Yahtzee, a commercial version of the classic Poker Dice game",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 351
+},
+{
+"Prompt": "A traditional tile-based game from China, where players draw and discard tiles to build a winning hand",
+"Explanation": "Refers to Mahjong, a game of skill, strategy, and calculation",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 352
+},
+{
+"Prompt": "A traditional card game popular in Spain and Latin America, played with a Spanish deck of 40 or 48 cards",
+"Explanation": "Refers to Mus, a bluffing and strategy game for four players in partnerships",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 353
+},
+{
+"Prompt": "A traditional card game popular in Germany and Austria, a trick-taking game for three players",
+"Explanation": "Refers to Skat, Germany's national card game",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 354
+},
+{
+"Prompt": "A traditional trick-taking card game, popular in France and many other countries, played with a 32-card deck",
+"Explanation": "Refers to Belote, a national card game in France",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 355
+},
+{
+"Prompt": "A traditional trick-taking card game from Italy, known for its complex bidding system",
+"Explanation": "Refers to Briscola, a popular and simple game often played in families",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 356
+},
+{
+"Prompt": "A traditional trick-taking card game from Russia, played with a reduced deck of 24 cards",
+"Explanation": "Refers to Durak ('Fool'), where the goal is not to be the last player with cards",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 357
+},
+{
+"Prompt": "A traditional board game from ancient Egypt, known as the 'game of passing'",
+"Explanation": "Refers to Senet, one of the oldest known board games",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 358
+},
+{
+"Prompt": "A traditional tabletop game involving flicking disks into a goal, popular in pubs",
+"Explanation": "Refers to Shove Ha'penny or Shoveboard, a historical English game",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 359
+},
+{
+"Prompt": "A traditional lawn game where players throw wooden balls as close as possible to a smaller target ball",
+"Explanation": "Refers to Pétanque or Boules, popular in France",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 360
+},
+{
+"Prompt": "A traditional lawn game from Italy, where players throw balls to get them as close as possible to the 'pallino'",
+"Explanation": "Refers to Bocce, the ancestor of Pétanque",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 361
+},
+{
+"Prompt": "A traditional tabletop game involving two rows of pegs, where players jump over each other's pieces to capture them",
+"Explanation": "Refers to English Draughts or Checkers",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 362
+},
+{
+"Prompt": "A traditional abstract strategy game from the Viking Age, played on a board with a characteristic pattern",
+"Explanation": "Refers to Hnefatafl, a game of unequal sides where one player defends the king and the other attacks",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 363
+},
+{
+"Prompt": "A traditional Native American game of chance, involving guessing which hand holds a marked bone or stone",
+"Explanation": "Refers to the Handgame or Stickgame, often played with singing and drumming",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 364
+},
+{
+"Prompt": "A traditional Korean board game similar to Backgammon",
+"Explanation": "Refers to Yut Nori, played with sticks instead of dice",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 365
+},
+{
+"Prompt": "A traditional Indian board game of strategy and luck, where players race their pieces around the board",
+"Explanation": "Refers to Pachisi, the national game of India and the inspiration for Ludo",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 366
+},
+{
+"Prompt": "A traditional Persian board game of strategy, known as 'the royal game'",
+"Explanation": "Refers to Shatranj, an ancient form of Chess",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 367
+},
+{
+"Prompt": "A traditional Turkish strategy board game, also known as 'Turkish Draughts'",
+"Explanation": "Refers to Dama, where pieces move diagonally but capture by jumping over opponents",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 368
+},
+{
+"Prompt": "A traditional dice game from the Middle Ages, involving three dice and a betting cup",
+"Explanation": "Refers to Hazard, an ancestor of Craps",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 369
+},
+{
+"Prompt": "A traditional Scottish game of throwing a large, heavy metal ball attached to a chain",
+"Explanation": "Refers to the Caber Toss, a classic event at Highland games",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 370
+},
+{
+"Prompt": "A traditional Scottish game of throwing a heavy stone for distance",
+"Explanation": "Refers to the Stone Put, another classic Highland games event",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 371
+},
+{
+"Prompt": "A traditional Scottish game of throwing a blacksmith's hammer for distance",
+"Explanation": "Refers to the Scottish Hammer Throw, different from the Olympic hammer throw",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 372
+},
+{
+"Prompt": "A traditional Irish sport played with a stick and a ball, similar to field hockey",
+"Explanation": "Refers to Hurling, considered the world's fastest field sport",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 373
+},
+{
+"Prompt": "A traditional Irish sport for women, similar to Hurling but with some rule differences",
+"Explanation": "Refers to Camogie, the female equivalent of Hurling",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 374
+},
+{
+"Prompt": "A traditional Welsh team sport, a form of medieval football with minimal rules, played between two villages",
+"Explanation": "Refers to Cnapan, a historical and often violent game",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 375
+},
+{
+"Prompt": "A traditional Basque sport involving lifting heavy stones",
+"Explanation": "Refers to Harri-jasotzea, a test of strength",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 376
+},
+{
+"Prompt": "A traditional Basque sport where two teams pull against each other on a rope over a mud pit",
+"Explanation": "Refers to Soka-tira or Basque Tug-of-War",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 377
+},
+{
+"Prompt": "A traditional Basque sport where competitors cut logs with an axe in the shortest time",
+"Explanation": "Refers to Aizkolaritza or Wood-chopping",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 378
+},
+{
+"Prompt": "A traditional Basque sport where competitors race while carrying heavy weights in each hand",
+"Explanation": "Refers to Ingude-altxatzea or Anvil Lifting",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 379
+},
+{
+"Prompt": "A traditional Swiss sport of wrestling while wearing special shorts with a belt",
+"Explanation": "Refers to Schwingen or Swiss Wrestling, the national sport",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 380
+},
+{
+"Prompt": "A traditional Swiss sport of throwing a heavy stone, the Unspunnen Stone",
+"Explanation": "Refers to Steinstossen or Stone Throwing, a symbol of Swiss strength",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 381
+},
+{
+"Prompt": "A traditional Austrian sport of racing on wooden sleds down a steep, icy mountain track",
+"Explanation": "Refers to Rodeln or Luge, a popular winter sport in the Alps",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 382
+},
+{
+"Prompt": "A traditional Finnish sport of wife-carrying, where male competitors race while carrying a female teammate",
+"Explanation": "Refers to Eukonkanto, a lighthearted competition with its own world championships",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 383
+},
+{
+"Prompt": "A traditional Finnish sport of swamp football, played in a bog or swamp",
+"Explanation": "Refers to Suopotkupallo, a messy and challenging variation of soccer",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 384
+},
+{
+"Prompt": "A traditional Finnish sport of throwing a mobile phone for distance",
+"Explanation": "Refers to Mobile Phone Throwing, a modern sport born from frustration with old devices",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 385
+},
+{
+"Prompt": "A traditional Russian sport of fighting with fists, a historical form of street fighting",
+"Explanation": "Refers to Kulachniy Boy or Russian Fist Fighting",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 386
+},
+{
+"Prompt": "A traditional Russian sport of climbing a smooth, greased pole to retrieve a prize at the top",
+"Explanation": "Refers to Mazay's Pole or Greasy Pole Climbing",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 387
+},
+{
+"Prompt": "A traditional Korean sport of traditional wrestling, where the goal is to make any part of the opponent's body above the knee touch the ground",
+"Explanation": "Refers to Ssireum, the national sport of Korea",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 388
+},
+{
+"Prompt": "A traditional Japanese sport of sumo wrestling, where a wrestler tries to force his opponent out of a circular ring or make him touch the ground",
+"Explanation": "Refers to Sumo, Japan's national sport",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 389
+},
+{
+"Prompt": "A traditional Japanese sport of competitive poetry composition",
+"Explanation": "Refers to Uta-garuta, a card game where players match halves of classical Japanese poems",
+"Category": "Cultural Knowledge",
+"Subcategory": "Games",
+"prompt_id": 390
+},
+{
+"Prompt": "A traditional Japanese sport of competitive flower arrangement",
+"Explanation": "Refers to Ikebana, the Japanese art of flower arrangement, sometimes practiced competitively",
+"Category": "Cultural Knowledge",
+"Subcategory": "Arts",
+"prompt_id": 391
+},
+{
+"Prompt": "A traditional Japanese sport of competitive archery on horseback",
+"Explanation": "Refers to Yabusame, a ritual performed at Shinto shrines",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 392
+},
+{
+"Prompt": "A traditional Chinese sport of competitive kite flying",
+"Explanation": "Refers to Kite Fighting, where participants try to cut each other's kite strings",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 393
+},
+{
+"Prompt": "A traditional Indian sport of competitive kite flying, particularly during the Makar Sankranti festival",
+"Explanation": "Refers to Patang-bazi or Indian Kite Fighting, known for the use of 'manjha' (glass-coated string)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 394
+},
+{
+"Prompt": "A traditional Afghan sport of competitive kite flying, popularized in the West by the novel 'The Kite Runner'",
+"Explanation": "Refers to Gudiparan Bazi, the Afghan version of kite fighting",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 395
+},
+{
+"Prompt": "A traditional sport from Uzbekistan, a form of polo played with a dead goat or sheep",
+"Explanation": "Refers to Buzkashi, the national sport of Afghanistan and popular in Central Asia",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 396
+},
+{
+"Prompt": "A traditional Mongolian sport of horse racing, featuring child jockeys, during the Naadam festival",
+"Explanation": "Refers to Mongolian Horse Racing, a test of endurance over long distances",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 397
+},
+{
+"Prompt": "A traditional Mongolian sport of archery, during the Naadam festival",
+"Explanation": "Refers to Mongolian Archery, known for its unique draw and release technique",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 398
+},
+{
+"Prompt": "A traditional sport from the United Arab Emirates, involving falcons hunting prey in the desert",
+"Explanation": "Refers to Falconry, a UNESCO Intangible Cultural Heritage, practiced for centuries in the Arab world",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 399
+},
+{
+"Prompt": "A traditional sport from Egypt, involving a stick-fighting dance",
+"Explanation": "Refers to Tahtib, practiced as both a martial art and a performance sport",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 400
+},
+{
+"Prompt": "A traditional Kenyan sport of long-distance running, known for producing world champions",
+"Explanation": "Refers to Kenyan Distance Running, particularly from the Kalenjin tribe",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 401
+},
+{
+"Prompt": "A traditional Ethiopian sport of long-distance running, a source of national pride",
+"Explanation": "Refers to Ethiopian Distance Running, rivalling Kenya in producing elite athletes",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 402
+},
+{
+"Prompt": "A traditional South African sport of rugby union, deeply tied to the nation's history and identity",
+"Explanation": "Refers to South African Rugby, with the national team known as the Springboks",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 403
+},
+{
+"Prompt": "A traditional Australian sport of surfing, given the country's extensive coastline and famous surf spots",
+"Explanation": "Refers to Australian Surfing Culture, home to iconic beaches like Bondi and Bells Beach",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 404
+},
+{
+"Prompt": "A traditional Brazilian sport of volleyball, particularly beach volleyball, given the country's success in the sport",
+"Explanation": "Refers to Brazilian Volleyball, a major power in both indoor and beach disciplines",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 405
+},
+{
+"Prompt": "A traditional Canadian sport of lacrosse, the country's official national summer sport",
+"Explanation": "Refers to Lacrosse, originated by Indigenous peoples of North America",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 406
+},
+{
+"Prompt": "A traditional American sport of basketball, invented in the United States",
+"Explanation": "Refers to Basketball, a hugely popular sport worldwide, invented by James Naismith in Massachusetts",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 407
+},
+{
+"Prompt": "A traditional Jamaican sport of sprinting, known for producing world-record holders like Usain Bolt",
+"Explanation": "Refers to Jamaican Sprinting, a dominant force in track and field",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 408
+},
+{
+"Prompt": "A traditional Cuban sport of baseball, the most popular sport on the island",
+"Explanation": "Refers to Cuban Baseball, known for its talented players and strong national team",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 409
+},
+{
+"Prompt": "A traditional Dominican sport of baseball, producing a disproportionately high number of Major League Baseball players",
+"Explanation": "Refers to Dominican Baseball, a national passion and a key export of talent",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 410
+},
+{
+"Prompt": "A traditional Venezuelan sport of baseball, second only to the Dominican Republic in producing MLB players from Latin America",
+"Explanation": "Refers to Venezuelan Baseball, a deeply ingrained part of the culture",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 411
+},
+{
+"Prompt": "A traditional Puerto Rican sport of baseball, with a strong professional league and many MLB players",
+"Explanation": "Refers to Puerto Rican Baseball, the island's primary sport",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 412
+},
+{
+"Prompt": "A traditional sport from the Pacific Islands, such as Tonga and Samoa, involving a form of rugby with 13 players a side",
+"Explanation": "Refers to Rugby League, particularly popular in Papua New Guinea, Tonga, and Samoa",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 413
+},
+{
+"Prompt": "A traditional sport from Fiji, a form of rugby with 7 players a side, known for its speed and Fijian dominance",
+"Explanation": "Refers to Rugby Sevens, where Fiji has won multiple Olympic gold medals",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 414
+},
+{
+"Prompt": "A traditional sport from Nepal, involving a long-distance race in the high Himalayas",
+"Explanation": "Refers to the Everest Marathon, the world's highest marathon",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 415
+},
+{
+"Prompt": "A traditional sport from Bhutan, the national sport of archery, using traditional bamboo bows",
+"Explanation": "Refers to Bhutanese Archery, a social and ceremonial event accompanied by singing and dancing",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 416
+},
+{
+"Prompt": "A traditional sport from Bangladesh, a form of wrestling known as 'Bengali Wrestling'",
+"Explanation": "Refers to Lathi Khela or Bangladeshi Wrestling, often practiced in rural areas",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 417
+},
+{
+"Prompt": "A traditional sport from Sri Lanka, a form of volleyball played over a high net with a woven ball",
+"Explanation": "Refers to Elle or Sri Lankan Volleyball, a unique local variant",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 418
+},
+{
+"Prompt": "A traditional sport from the Maldives, a form of rhythmic dancing with drums and banners, performed on national day",
+"Explanation": "Refers to Bodu Beru, which translates to 'Big Drum', more a performance art but with competitive elements",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 419
+},
+{
+"Prompt": "A traditional sport from Pakistan, a form of polo played in the northern regions like Gilgit-Baltistan",
+"Explanation": "Refers to Polo, known as 'the game of kings', and is very popular in certain areas of Pakistan",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 420
+},
+{
+"Prompt": "A traditional sport from Iran, a form of gymnastics performed in a 'house of strength' with clubs and shields",
+"Explanation": "Refers to Varzesh-e Bastani or Zurkhaneh, a system of athletics originally used to train warriors",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 421
+},
+{
+"Prompt": "A traditional sport from Saudi Arabia, involving camel racing, a popular Bedouin pastime",
+"Explanation": "Refers to Camel Racing, a traditional sport now often using robotic jockeys",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 422
+},
+{
+"Prompt": "A traditional sport from Qatar, similar to Saudi Arabia, involving camel racing",
+"Explanation": "Refers to Camel Racing, a major cultural event and betting sport in the Gulf region",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 423
+},
+{
+"Prompt": "A traditional sport from Oman, involving dhow sailing, reflecting the country's maritime heritage",
+"Explanation": "Refers to Dhow Racing, using traditional Omani sailing vessels",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 424
+},
+{
+"Prompt": "A traditional sport from Yemen, involving a form of folk dancing with the jambiya dagger",
+"Explanation": "Refers to the Bara'a dance, a performance art displaying skill and agility with the traditional dagger",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 425
+},
+{
+"Prompt": "A traditional sport from Lebanon, a form of mountain biking in the rugged terrain",
+"Explanation": "Refers to Lebanese Mountain Biking, growing in popularity",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 426
+},
+{
+"Prompt": "A traditional sport from Jordan, involving long-distance desert hiking, like the Jordan Trail",
+"Explanation": "Refers to Hiking in Wadi Rum, a popular activity for tourists and locals exploring the desert landscape",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 427
+},
+{
+"Prompt": "A traditional sport from Israel, a form of self-defense and fitness training developed for the Israeli military",
+"Explanation": "Refers to Krav Maga, a practical martial art now practiced worldwide",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 428
+},
+{
+"Prompt": "A traditional sport from Palestine, a form of folk dancing known as Dabke, performed at weddings and celebrations",
+"Explanation": "Refers to Dabke, a line dance symbolizing solidarity and joy",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 429
+},
+{
+"Prompt": "A traditional sport from Syria, also involving the folk dance of Dabke",
+"Explanation": "Refers to Dabke, a shared Levantine cultural tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 430
+},
+{
+"Prompt": "A traditional sport from Iraq, a form of marshland rowing in the southern Mesopotamian Marshes",
+"Explanation": "Refers to Rowling in the Marshes, using the traditional 'mashoof' canoe",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 431
+},
+{
+"Prompt": "A traditional sport from Kuwait, involving pearl diving, a historical economic activity now celebrated as a heritage sport",
+"Explanation": "Refers to Pearl Diving, with competitions that mimic the old diving techniques",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 432
+},
+{
+"Prompt": "A traditional sport from Bahrain, also involving pearl diving, reflecting the shared Gulf heritage",
+"Explanation": "Refers to Pearl Diving, an important part of Bahrain's history and culture",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 433
+},
+{
+"Prompt": "A traditional sport from Cyprus, a form of donkey racing, a lighthearted event in some villages",
+"Explanation": "Refers to Donkey Racing, often held during local festivals",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 434
+},
+{
+"Prompt": "A traditional sport from Malta, a form of regatta featuring traditional Maltese boats called 'dghajjes'",
+"Explanation": "Refers to the Malta Regatta, a colorful and competitive event in the Grand Harbour",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 435
+},
+{
+"Prompt": "A traditional sport from Iceland, a form of strongman competition, given the country's success in World's Strongest Man",
+"Explanation": "Refers to Icelandic Strongman, with champions like Jón Páll Sigmarsson and Hafþór Júlíus Björnsson",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 436
+},
+{
+"Prompt": "A traditional sport from Norway, a form of ski jumping, a dominant winter sport",
+"Explanation": "Refers to Ski Jumping, a national obsession during the winter",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 437
+},
+{
+"Prompt": "A traditional sport from Sweden, a form of cross-country skiing, a popular recreational and competitive activity",
+"Explanation": "Refers to Cross-Country Skiing, known as 'langd' in Swedish, a cornerstone of winter life",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 438
+},
+{
+"Prompt": "A traditional sport from Denmark, a form of handball, a very popular team sport",
+"Explanation": "Refers to Handball, where Denmark has highly successful men's and women's national teams",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 439
+},
+{
+"Prompt": "A traditional sport from the Netherlands, a form of speed skating on natural ice canals",
+"Explanation": "Refers to the Elfstedentocht, an epic 200-kilometer tour skating race held only when the canals freeze",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 440
+},
+{
+"Prompt": "A traditional sport from Belgium, a form of cycling, particularly cyclocross, where Belgian riders are dominant",
+"Explanation": "Refers to Cyclocross, a demanding winter discipline hugely popular in Flanders",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 441
+},
+{
+"Prompt": "A traditional sport from Luxembourg, a form of cycling, given the country's small size and its success in producing Tour de France riders",
+"Explanation": "Refers to Road Cycling, with champions like Charly Gaul and Andy Schleck",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 442
+},
+{
+"Prompt": "A traditional sport from Liechtenstein, a form of alpine skiing, a popular activity in the Alpine principality",
+"Explanation": "Refers to Alpine Skiing, with Hanni Wenzel winning Olympic medals for Liechtenstein",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 443
+},
+{
+"Prompt": "A traditional sport from Monaco, the Formula 1 Grand Prix, a prestigious auto race through the city streets",
+"Explanation": "Refers to the Monaco Grand Prix, one of the most famous races in the world",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 444
+},
+{
+"Prompt": "A traditional sport from Andorra, a form of skiing, given its location in the Pyrenees",
+"Explanation": "Refers to Skiing in Grandvalira, the largest ski area in the Pyrenees",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 445
+},
+{
+"Prompt": "A traditional sport from San Marino, a form of motorsport, particularly motorcycle Grand Prix racing",
+"Explanation": "Refers to the San Marino Motorcycle Grand Prix (historically held at the Misano World Circuit near the republic)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 446
+},
+{
+"Prompt": "A traditional sport from Vatican City, a form of Swiss Guard drill and ceremony",
+"Explanation": "Refers to the Swiss Guard's ceremonial duties, a unique form of disciplined performance",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 447
+},
+{
+"Prompt": "A traditional event from the United Kingdom, the annual boat race between the universities of Oxford and Cambridge on the River Thames",
+"Explanation": "Refers to The Boat Race, a classic British sporting tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 448
+},
+{
+"Prompt": "A traditional event from the United States, the annual championship game of the National Football League",
+"Explanation": "Refers to the Super Bowl, a major cultural event beyond just sports",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 449
+},
+{
+"Prompt": "A traditional event from France, the annual bicycle race that covers more than 2,000 miles around the country",
+"Explanation": "Refers to the Tour de France, the world's most famous cycling race",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 450
+},
+{
+"Prompt": "A traditional event from Italy, a classic long-distance bicycle race around the country",
+"Explanation": "Refers to the Giro d'Italia, one of cycling's three Grand Tours",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 451
+},
+{
+"Prompt": "A traditional event from Spain, a classic long-distance bicycle race around the country",
+"Explanation": "Refers to the Vuelta a España, one of cycling's three Grand Tours",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 452
+},
+{
+"Prompt": "A traditional event from Australia, a major tennis tournament held in Melbourne, the first of the four Grand Slam tournaments of the year",
+"Explanation": "Refers to the Australian Open",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 453
+},
+{
+"Prompt": "A traditional event from France, a major tennis tournament held in Paris, the second Grand Slam tournament of the year, played on clay courts",
+"Explanation": "Refers to the French Open or Roland-Garros",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 454
+},
+{
+"Prompt": "A traditional event from the United Kingdom, a major tennis tournament held in London, the third Grand Slam tournament of the year, played on grass courts",
+"Explanation": "Refers to The Championships, Wimbledon",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 455
+},
+{
+"Prompt": "A traditional event from the United States, a major tennis tournament held in New York, the fourth and final Grand Slam tournament of the year",
+"Explanation": "Refers to the US Open",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 456
+},
+{
+"Prompt": "A traditional event from Ireland, the national holiday celebrating the patron saint of Ireland",
+"Explanation": "Refers to St. Patrick's Day, celebrated with parades, wearing green, and public festivities",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 457
+},
+{
+"Prompt": "A traditional event from Wales, a cultural festival of music and poetry",
+"Explanation": "Refers to the Eisteddfod, a celebration of Welsh language and arts",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 458
+},
+{
+"Prompt": "A traditional event from Scotland, a gathering celebrating Scottish and Celtic culture, with activities like Highland dancing and bagpipe competitions",
+"Explanation": "Refers to a Highland Games event",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 459
+},
+{
+"Prompt": "A traditional event from Canada, a winter festival in Quebec City featuring snow sculptures and an ice palace",
+"Explanation": "Refers to the Quebec Winter Carnival (Carnaval de Québec)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 460
+},
+{
+"Prompt": "A traditional event from Mexico, a holiday celebrating the Mexican victory over the French Empire at the Battle of Puebla",
+"Explanation": "Refers to Cinco de Mayo, often celebrated with parades, food, and music",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 461
+},
+{
+"Prompt": "A traditional event from Germany, a folk festival in Munich known as the world's largest Volksfest, featuring beer tents and amusement rides",
+"Explanation": "Refers to Oktoberfest, though it actually starts in September",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 462
+},
+{
+"Prompt": "A traditional event from China, the festival marking the end of the Lunar New Year celebrations, with displays of lanterns",
+"Explanation": "Refers to the Lantern Festival (Yuanxiao Jie)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 463
+},
+{
+"Prompt": "A traditional event from India, the festival of lights, symbolizing the victory of light over darkness and good over evil",
+"Explanation": "Refers to Diwali, celebrated with diyas (oil lamps), fireworks, and sweets",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 464
+},
+{
+"Prompt": "A traditional event from Thailand, the national festival marking the traditional Thai New Year, known for water fights",
+"Explanation": "Refers to Songkran, a water festival celebrated in April",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 465
+},
+{
+"Prompt": "A traditional event from Myanmar, the Buddhist New Year festival, also involving water throwing",
+"Explanation": "Refers to Thingyan, similar to Songkran",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 466
+},
+{
+"Prompt": "A traditional event from Laos, the Buddhist New Year festival, involving water splashing and building sand stupas",
+"Explanation": "Refers to Pi Mai Lao or Lao New Year",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 467
+},
+{
+"Prompt": "A traditional event from Cambodia, the major celebration of the Khmer New Year in April",
+"Explanation": "Refers to Choul Chnam Thmey",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 468
+},
+{
+"Prompt": "A traditional event from Vietnam, the most important celebration, marking the arrival of spring based on the lunar calendar",
+"Explanation": "Refers to Tết Nguyên Đán or Vietnamese Lunar New Year",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 469
+},
+{
+"Prompt": "A traditional event from Indonesia, the Hindu New Year in Bali, a day of silence, fasting, and meditation",
+"Explanation": "Refers to Nyepi, the Day of Silence",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 470
+},
+{
+"Prompt": "A traditional event from the Philippines, a religious festival honoring the Santo Niño (Holy Child Jesus), known for its vibrant street dancing",
+"Explanation": "Refers to the Sinulog Festival in Cebu",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 471
+},
+{
+"Prompt": "A traditional event from Portugal, a festival in the Algarve where people celebrate the local product and culture",
+"Explanation": "Refers to a regional festival, for example, the Loulé Carnival or the Festa de São João in Porto",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 472
+},
+{
+"Prompt": "A traditional event from Greece, the celebration of Greek Independence Day, marked with parades and national pride",
+"Explanation": "Refers to Greek Independence Day on March 25th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 473
+},
+{
+"Prompt": "A traditional event from Turkey, the national festival commemorating the proclamation of the republic in 1923",
+"Explanation": "Refers to Republic Day (Cumhuriyet Bayramı) on October 29th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 474
+},
+{
+"Prompt": "A traditional event from Egypt, the breaking of the fast at the end of the day during the holy month of Ramadan",
+"Explanation": "Refers to Iftar, a daily event during Ramadan where families and communities gather to eat after sunset",
+"Category": "Cultural Knowledge",
+"Subcategory": "Religious Observance",
+"prompt_id": 475
+},
+{
+"Prompt": "A traditional event from Morocco, the festival of sacrifice, one of the two most important Islamic holidays",
+"Explanation": "Refers to Eid al-Adha, commemorating Ibrahim's willingness to sacrifice his son",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 476
+},
+{
+"Prompt": "A traditional event from Algeria, the festival marking the end of Ramadan, a day of prayers, feasting, and gift-giving",
+"Explanation": "Refers to Eid al-Fitr, the 'Festival of Breaking the Fast'",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 477
+},
+{
+"Prompt": "A traditional event from Tunisia, similar to its neighbors, celebrating the end of Ramadan",
+"Explanation": "Refers to Eid al-Fitr, a major religious holiday",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 478
+},
+{
+"Prompt": "A traditional event from Libya, also celebrating Eid al-Fitr",
+"Explanation": "Refers to Eid al-Fitr, a significant celebration across the Muslim world",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 479
+},
+{
+"Prompt": "A traditional event from Sudan, celebrating Eid al-Fitr",
+"Explanation": "Refers to Eid al-Fitr, marked by special prayers and communal meals",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 480
+},
+{
+"Prompt": "A traditional event from South Sudan, celebrating independence from Sudan",
+"Explanation": "Refers to South Sudan Independence Day on July 9th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 481
+},
+{
+"Prompt": "A traditional event from Ethiopia, the celebration of the Ethiopian Epiphany",
+"Explanation": "Refers to Timkat, a vibrant festival commemorating the baptism of Jesus in the Jordan River",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 482
+},
+{
+"Prompt": "A traditional event from Eritrea, also celebrating Timkat, a shared Orthodox Christian tradition with Ethiopia",
+"Explanation": "Refers to Timkat",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 483
+},
+{
+"Prompt": "A traditional event from Somalia, the celebration of Eid al-Fitr",
+"Explanation": "Refers to Eid al-Fitr, known as 'Ciid' in Somali",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 484
+},
+{
+"Prompt": "A traditional event from Djibouti, celebrating Eid al-Fitr",
+"Explanation": "Refers to Eid al-Fitr",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 485
+},
+{
+"Prompt": "A traditional event from Kenya, a cultural festival celebrating the heritage of the Swahili people of the coast",
+"Explanation": "Refers to the Lamu Cultural Festival, featuring traditional Swahili poetry, music, and dhow races",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 486
+},
+{
+"Prompt": "A traditional event from Tanzania, a cultural festival on the island of Zanzibar",
+"Explanation": "Refers to the Sauti za Busara music festival in Zanzibar, celebrating African music",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 487
+},
+{
+"Prompt": "A traditional event from Uganda, a cultural festival celebrating the kingdom of Buganda",
+"Explanation": "Refers to the Buganda Kingdom Coronation Anniversary, celebrating the Kabaka (king)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 488
+},
+{
+"Prompt": "A traditional event from Rwanda, a ceremony of naming baby gorillas, aimed at promoting conservation",
+"Explanation": "Refers to Kwita Izina, the Gorilla Naming Ceremony",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 489
+},
+{
+"Prompt": "A traditional event from Burundi, a ritual drumming performance, a symbol of the nation",
+"Explanation": "Refers to the Royal Drummers of Burundi, a UNESCO Intangible Cultural Heritage",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 490
+},
+{
+"Prompt": "A traditional event from the Democratic Republic of Congo, a vibrant music scene and dance culture, particularly Soukous",
+"Explanation": "Refers to Congolese Rumba, a popular music and dance genre",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 491
+},
+{
+"Prompt": "A traditional event from the Republic of Congo, also celebrating Congolese Rumba",
+"Explanation": "Refers to Congolese Rumba, a shared cultural treasure of both Congos",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music & Dance",
+"prompt_id": 492
+},
+{
+"Prompt": "A traditional event from Ghana, a festival celebrating the harvest of yams, a staple food",
+"Explanation": "Refers to the Yam Festival (Homowo or others, depending on the ethnic group)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 493
+},
+{
+"Prompt": "A traditional event from Nigeria, a festival of arts and culture, celebrating the diversity of the country",
+"Explanation": "Refers to the Lagos Carnival or the Calabar Carnival",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 494
+},
+{
+"Prompt": "A traditional event from Cameroon, a festival celebrating the cultural diversity of the country's many ethnic groups",
+"Explanation": "Refers to the Ngondo Festival of the Sawa people or the Nyem-Nyem festival",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 495
+},
+{
+"Prompt": "A traditional event from Senegal, a major Islamic religious festival, the Grand Magal of Touba",
+"Explanation": "Refers to the Magal de Touba, a pilgrimage of the Mouride brotherhood",
+"Category": "Cultural Knowledge",
+"Subcategory": "Religious Observance",
+"prompt_id": 496
+},
+{
+"Prompt": "A traditional event from The Gambia, the celebration of Independence Day",
+"Explanation": "Refers to Gambian Independence Day on February 18th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 497
+},
+{
+"Prompt": "A traditional event from Mali, a festival celebrating the legendary city of Timbuktu",
+"Explanation": "Refers to the Festival au Désert, though its location has shifted due to security concerns",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 498
+},
+{
+"Prompt": "A traditional event from Niger, a festival celebrating the nomadic Tuareg culture",
+"Explanation": "Refers to the Cure Salée or 'Salt Cure', a gathering of nomadic pastoralists",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 499
+},
+{
+"Prompt": "A traditional event from Chad, a festival celebrating the culture of the Sara people",
+"Explanation": "Refers to the Gerewol Festival, a male beauty contest among the Wodaabe Fula people (also celebrated in Niger)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 500
+},
+{
+"Prompt": "A traditional event from Burkina Faso, Africa's largest film festival, celebrating African cinema",
+"Explanation": "Refers to FESPACO (Panafrican Film and Television Festival of Ouagadougou)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 501
+},
+{
+"Prompt": "A traditional event from Benin, a festival celebrating the Vodun (Voodoo) religion",
+"Explanation": "Refers to the Vodun Festival on January 10th, a national holiday in Benin",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 502
+},
+{
+"Prompt": "A traditional event from Togo, also celebrating the Vodun religion",
+"Explanation": "Refers to Vodun festivals, similar to those in Benin",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 503
+},
+{
+"Prompt": "A traditional event from Ivory Coast, a mask festival celebrated by the Guro and other ethnic groups",
+"Explanation": "Refers to the Fête des Masques in the Man region",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 504
+},
+{
+"Prompt": "A traditional event from Liberia, the celebration of Independence Day",
+"Explanation": "Refers to Liberian Independence Day on July 26th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 505
+},
+{
+"Prompt": "A traditional event from Sierra Leone, a festival marking the end of the initiation period for young women into the Bondo society",
+"Explanation": "Refers to the Bondo/Sande Society celebrations",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 506
+},
+{
+"Prompt": "A traditional event from Guinea, a celebration of the country's rich musical heritage, particularly the kora and djembe",
+"Explanation": "Refers to the Conakry International Kora Festival or local djembe celebrations",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 507
+},
+{
+"Prompt": "A traditional event from Guinea-Bissau, the celebration of Carnival, influenced by Portuguese culture",
+"Explanation": "Refers to the Guinea-Bissau Carnival",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 508
+},
+{
+"Prompt": "A traditional event from Cape Verde, the celebration of Carnival, a major event on islands like São Vicente",
+"Explanation": "Refers to the Mindelo Carnival, known for its Brazilian-style parades",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 509
+},
+{
+"Prompt": "A traditional event from Mauritania, the celebration of Eid al-Fitr",
+"Explanation": "Refers to Eid al-Fitr",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 510
+},
+{
+"Prompt": "A traditional event from Western Sahara, the celebration of Eid al-Fitr",
+"Explanation": "Refers to Eid al-Fitr",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 511
+},
+{
+"Prompt": "A traditional event from Madagascar, the festival of 'Famadihana' or the turning of the bones, a funerary tradition",
+"Explanation": "Refers to Famadihana, where relatives exhume the remains of their ancestors, rewrap them in fresh cloth, and dance with the corpses before reburial",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 512
+},
+{
+"Prompt": "A traditional event from Mauritius, the spring festival of lights, celebrated by the Hindu community",
+"Explanation": "Refers to Diwali, a public holiday in Mauritius",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 513
+},
+{
+"Prompt": "A traditional event from the Seychelles, the Creole Festival, celebrating Creole culture and identity",
+"Explanation": "Refers to the Festival Kreol (Creole Festival)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 514
+},
+{
+"Prompt": "A traditional event from the Comoros, the celebration of Eid al-Fitr",
+"Explanation": "Refers to Eid al-Fitr",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 515
+},
+{
+"Prompt": "A traditional event from Malawi, the Lake of Stars festival, an international music festival on the shores of Lake Malawi",
+"Explanation": "Refers to the Lake of Stars Festival",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 516
+},
+{
+"Prompt": "A traditional event from Zambia, the Kuomboka ceremony of the Lozi people, marking the movement of the Litunga (king) from the floodplains to higher ground",
+"Explanation": "Refers to the Kuomboka Ceremony",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 517
+},
+{
+"Prompt": "A traditional event from Zimbabwe, the Harare International Festival of the Arts (HIFA)",
+"Explanation": "Refers to HIFA, a major arts festival in Southern Africa",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 518
+},
+{
+"Prompt": "A traditional event from Botswana, the Maitisong Festival, a popular performing arts festival",
+"Explanation": "Refers to the Maitisong Festival held in Gaborone",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 519
+},
+{
+"Prompt": "A traditional event from Namibia, the Windhoek Karneval, influenced by German traditions",
+"Explanation": "Refers to the WIKA (Windhoek Karneval)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 520
+},
+{
+"Prompt": "A traditional event from Angola, the Luanda Island Festival, celebrating music and culture",
+"Explanation": "Refers to the Festival da Ilha de Luanda",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 521
+},
+{
+"Prompt": "A traditional event from Mozambique, the festival of the sea, celebrating the country's maritime culture",
+"Explanation": "Refers to the Festival do Mar in Maputo",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 522
+},
+{
+"Prompt": "A traditional event from Eswatini (Swaziland), the Reed Dance, an annual ceremony where young women pay homage to the Queen Mother",
+"Explanation": "Refers to the Umhlanga or Reed Dance",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 523
+},
+{
+"Prompt": "A traditional event from Lesotho, the Morija Arts & Cultural Festival, a prominent arts event",
+"Explanation": "Refers to the Morija Festival",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 524
+},
+{
+"Prompt": "A traditional event from Madagascar, the celebration of the 'Alahelo' or independence from France",
+"Explanation": "Refers to Malagasy Independence Day on June 26th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 525
+},
+{
+"Prompt": "A traditional event from the Central African Republic, the celebration of Boganda Day, honoring the national hero Barthélemy Boganda",
+"Explanation": "Refers to Boganda Day on March 29th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 526
+},
+{
+"Prompt": "A traditional event from the Republic of the Congo, the celebration of the country's independence from France",
+"Explanation": "Refers to Congolese Independence Day on August 15th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 527
+},
+{
+"Prompt": "A traditional event from the Democratic Republic of Congo, the celebration of independence from Belgium",
+"Explanation": "Refers to DRC Independence Day on June 30th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 528
+},
+{
+"Prompt": "A traditional event from Gabon, the celebration of independence from France",
+"Explanation": "Refers to Gabonese Independence Day on August 17th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 529
+},
+{
+"Prompt": "A traditional event from Equatorial Guinea, the celebration of independence from Spain",
+"Explanation": "Refers to Equatoguinean Independence Day on October 12th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 530
+},
+{
+"Prompt": "A traditional event from São Tomé and Príncipe, the celebration of independence from Portugal",
+"Explanation": "Refers to São Tomé and Príncipe Independence Day on July 12th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 531
+},
+{
+"Prompt": "A traditional event from Burundi, the celebration of independence from Belgium",
+"Explanation": "Refers to Burundian Independence Day on July 1st",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 532
+},
+{
+"Prompt": "A traditional event from Rwanda, the celebration of liberation from the genocidal regime",
+"Explanation": "Refers to Liberation Day on July 4th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 533
+},
+{
+"Prompt": "A traditional event from Uganda, the celebration of independence from the United Kingdom",
+"Explanation": "Refers to Ugandan Independence Day on October 9th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 534
+},
+{
+"Prompt": "A traditional event from Kenya, the celebration of independence from the United Kingdom",
+"Explanation": "Refers to Kenyan Independence Day or Jamhuri Day on December 12th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 535
+},
+{
+"Prompt": "A traditional event from Tanzania, the celebration of the union between Tanganyika and Zanzibar",
+"Explanation": "Refers to Union Day on April 26th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 536
+},
+{
+"Prompt": "A traditional event from Zambia, the celebration of independence from the United Kingdom",
+"Explanation": "Refers to Zambian Independence Day on October 24th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 537
+},
+{
+"Prompt": "A traditional event from Malawi, the celebration of independence from the United Kingdom",
+"Explanation": "Refers to Malawian Independence Day on July 6th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 538
+},
+{
+"Prompt": "A traditional event from Zimbabwe, the celebration of independence from the United Kingdom",
+"Explanation": "Refers to Zimbabwean Independence Day on April 18th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 539
+},
+{
+"Prompt": "A traditional event from Namibia, the celebration of independence from South Africa",
+"Explanation": "Refers to Namibian Independence Day on March 21st",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 540
+},
+{
+"Prompt": "A traditional event from Botswana, the celebration of independence from the United Kingdom",
+"Explanation": "Refers to Botswanan Independence Day on September 30th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 541
+},
+{
+"Prompt": "A traditional event from South Africa, the celebration of freedom and the end of apartheid",
+"Explanation": "Refers to Freedom Day on April 27th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 542
+},
+{
+"Prompt": "A traditional event from Lesotho, the celebration of independence from the United Kingdom",
+"Explanation": "Refers to Basotho Independence Day on October 4th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 543
+},
+{
+"Prompt": "A traditional event from Eswatini, the celebration of independence from the United Kingdom",
+"Explanation": "Refers to Swazi Independence Day on September 6th",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 544
+},
+{
+"Prompt": "A traditional event from Madagascar, the celebration of the 'Fetin'ny Raso' or the 'Feast of the Lamba' (cloth)",
+"Explanation": "Refers to a cultural celebration of traditional Malagasy weaving and clothing",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 545
+},
+{
+"Prompt": "A traditional event from Mauritius, the 'Cavadee' festival, a Tamil Hindu festival involving body piercing as a form of penance",
+"Explanation": "Refers to Thaipusam Cavadee",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 546
+},
+{
+"Prompt": "A traditional event from the Seychelles, the 'Festival Kreol' (Creole Festival), a week-long celebration of Creole culture, music, and food",
+"Explanation": "Refers to the Festival Kreol",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 547
+},
+{
+"Prompt": "A traditional event from the Comoros, the 'Grand Mariage' or 'Great Marriage', a complex and expensive ceremony that confers high social status",
+"Explanation": "Refers to the Grand Mariage, a cornerstone of Comorian culture",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 548
+},
+{
+"Prompt": "A traditional event from Mayotte, the celebration of Eid al-Fitr",
+"Explanation": "Refers to Eid al-Fitr",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 549
+},
+{
+"Prompt": "A traditional event from Réunion, the 'Fête des Lumières' or Festival of Lights, similar to the Indian Diwali",
+"Explanation": "Refers to the Dipavali festival celebrated by the Tamil community on Réunion",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 550
+}
+]

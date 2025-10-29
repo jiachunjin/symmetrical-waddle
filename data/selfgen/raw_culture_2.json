@@ -1,0 +1,1402 @@
+[
+{
+"Prompt": "A traditional Finnish summer celebration where bonfires are lit to commemorate the feast of St. John the Baptist",
+"Explanation": "Refers to Juhannus (Midsummer), a major holiday marking the beginning of summer vacation",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 551
+},
+{
+"Prompt": "A traditional Swedish celebration where families gather to eat marinated herring and sing drinking songs",
+"Explanation": "Refers to Midsommar, celebrated around the summer solstice with maypole dancing and flower wreaths",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 552
+},
+{
+"Prompt": "A traditional Norwegian celebration of Constitution Day with children's parades and national costumes",
+"Explanation": "Refers to Syttende Mai (May 17th), featuring flags, ice cream, and joyful processions",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 553
+},
+{
+"Prompt": "A traditional Danish celebration where students graduate from high school in decorated trucks",
+"Explanation": "Refers to Studenterkørsel (Student Drive), a lively tradition where graduates celebrate in streets",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 554
+},
+{
+"Prompt": "A traditional Icelandic festival where communities celebrate the first day of summer",
+"Explanation": "Refers to Sumardagurinn fyrsti, featuring parades, entertainment, and colorful traditions",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 555
+},
+{
+"Prompt": "A traditional Faroese celebration where pilot whales are hunted for community food",
+"Explanation": "Refers to Grindadráp, a controversial but traditional whale hunt in the Faroe Islands",
+"Category": "Cultural Knowledge",
+"Subcategory": "Tradition",
+"prompt_id": 556
+},
+{
+"Prompt": "A traditional Greenlandic celebration of the return of the sun after winter darkness",
+"Explanation": "Refers to the Return of the Sun Festival, celebrated in northern Greenland communities",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 557
+},
+{
+"Prompt": "A traditional Estonian singing festival where massive choirs perform together",
+"Explanation": "Refers to Laulupidu, a UNESCO-recognized song festival tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 558
+},
+{
+"Prompt": "A traditional Latvian festival celebrating the summer solstice with herb collecting and fire jumping",
+"Explanation": "Refers to Jāņi, where people wear oak leaf wreaths and search for the mythical fern flower",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 559
+},
+{
+"Prompt": "A traditional Lithuanian celebration where crosses are crafted and displayed on a hill",
+"Explanation": "Refers to the Hill of Crosses near Šiauliai, a site of pilgrimage and national pride",
+"Category": "Cultural Knowledge",
+"Subcategory": "Religious Sites",
+"prompt_id": 560
+},
+{
+"Prompt": "A traditional Polish Christmas meal featuring 12 meatless dishes",
+"Explanation": "Refers to Wigilia, the Christmas Eve supper including barszcz, carp, and pierogi",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 561
+},
+{
+"Prompt": "A traditional Czech celebration where men gently whip women with decorated willow rods",
+"Explanation": "Refers to Easter Monday's Pomlázka tradition, meant to bring health and beauty",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 562
+},
+{
+"Prompt": "A traditional Slovak celebration of folklore and culture in the Tatra Mountains",
+"Explanation": "Refers to Východná Folklore Festival, one of Slovakia's largest folk celebrations",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 563
+},
+{
+"Prompt": "A traditional Hungarian celebration where water is poured on women at Easter",
+"Explanation": "Refers to Easter Monday's Locsolkodás, where men sprinkle perfume or water on women",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 564
+},
+{
+"Prompt": "A traditional Romanian celebration where painted eggs are displayed and tapped together",
+"Explanation": "Refers to Easter's tradition of ouă încondeiate (decorated eggs) with intricate patterns",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 565
+},
+{
+"Prompt": "A traditional Bulgarian celebration where Martenitsa bracelets are exchanged for health",
+"Explanation": "Refers to Baba Marta (Grandmother March) on March 1st, welcoming spring",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 566
+},
+{
+"Prompt": "A traditional Serbian celebration where families gather to honor their patron saint",
+"Explanation": "Refers to Slava, a unique Orthodox tradition with special bread and rituals",
+"Category": "Cultural Knowledge",
+"Subcategory": "Religious Observance",
+"prompt_id": 567
+},
+{
+"Prompt": "A traditional Croatian celebration where licitars make heart-shaped honey cookies",
+"Explanation": "Refers to Licitar hearts, a UNESCO-recognized craft from northern Croatia",
+"Category": "Cultural Knowledge",
+"Subcategory": "Crafts",
+"prompt_id": 568
+},
+{
+"Prompt": "A traditional Bosnian coffee ceremony where coffee is prepared in a džezva",
+"Explanation": "Refers to Bosnian coffee culture, served with rahat lokum and sugar cubes",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 569
+},
+{
+"Prompt": "A traditional Montenegrin celebration of mountain culture and epic poetry",
+"Explanation": "Refers to the Montenegrin tradition of gusle playing and reciting epic poems",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 570
+},
+{
+"Prompt": "A traditional Albanian celebration where sworn virgins take on male social roles",
+"Explanation": "Refers to the tradition of Burrnesha, women who live as men in northern Albanian society",
+"Category": "Cultural Knowledge",
+"Subcategory": "Tradition",
+"prompt_id": 571
+},
+{
+"Prompt": "A traditional Macedonian celebration of Orthodox Easter with red eggs and special bread",
+"Explanation": "Refers to Easter traditions including the first egg being colored red",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 572
+},
+{
+"Prompt": "A traditional Kosovar celebration of independence with Newborn monument displays",
+"Explanation": "Refers to Kosovo Independence Day on February 17th with public celebrations",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 573
+},
+{
+"Prompt": "A traditional Moldovan celebration of wine harvest with national wine day",
+"Explanation": "Refers to National Wine Day in Moldova, celebrating the country's wine production",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 574
+},
+{
+"Prompt": "A traditional Belarusian celebration where people search for a magical fern flower",
+"Explanation": "Refers to Kupalle, the summer solstice festival with wreath floating and fire jumping",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 575
+},
+{
+"Prompt": "A traditional Ukrainian celebration where women wear vinok flower wreaths",
+"Explanation": "Refers to traditional vinok headpieces worn during festivals and celebrations",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 576
+},
+{
+"Prompt": "A traditional Georgian feast with long toasts led by a tamada toastmaster",
+"Explanation": "Refers to Supra, a traditional feast featuring numerous dishes and ritual toasting",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 577
+},
+{
+"Prompt": "A traditional Armenian bread baked in tonir underground ovens",
+"Explanation": "Refers to Lavash, a UNESCO-recognized flatbread essential to Armenian cuisine",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 578
+},
+{
+"Prompt": "A traditional Azerbaijani celebration of spring with painted eggs and jumping over fires",
+"Explanation": "Refers to Novruz Bayram, the Persian New Year celebrated across Azerbaijan",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 579
+},
+{
+"Prompt": "A traditional Kazakh celebration where a young man tries to kiss a girl while riding",
+"Explanation": "Refers to Kyz kuu (catch the girl), a traditional game demonstrating riding skills",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 580
+},
+{
+"Prompt": "A traditional Kyrgyz celebration where riders try to pick up a goat carcass",
+"Explanation": "Refers to Ulak Tartysh or Buzkashi, the Central Asian sport played on horseback",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 581
+},
+{
+"Prompt": "A traditional Uzbek celebration where plov is cooked in massive cauldrons",
+"Explanation": "Refers to Osh Pazi, the master plov cooks who prepare the national dish for celebrations",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 582
+},
+{
+"Prompt": "A traditional Turkmen celebration where Akhal-Teke horses are displayed",
+"Explanation": "Refers to the celebration of the Akhal-Teke horse breed, a national symbol",
+"Category": "Cultural Knowledge",
+"Subcategory": "Animals",
+"prompt_id": 583
+},
+{
+"Prompt": "A traditional Tajik celebration of spring with sumalak wheat germ dish",
+"Explanation": "Refers to Nowruz traditions including the preparation of sumalak over 24 hours",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 584
+},
+{
+"Prompt": "A traditional Mongolian celebration where airag fermented mare's milk is consumed",
+"Explanation": "Refers to Naadam Festival traditions including drinking airag",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 585
+},
+{
+"Prompt": "A traditional Tibetan celebration where butter sculptures are displayed",
+"Explanation": "Refers to Monlam Prayer Festival with intricate yak butter sculptures",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 586
+},
+{
+"Prompt": "A traditional Uyghur celebration where pilaf is cooked with yellow carrots and raisins",
+"Explanation": "Refers to Uyghur polo (pilaf), a signature dish of Xinjiang cuisine",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 587
+},
+{
+"Prompt": "A traditional Bhutanese celebration where archers compete with traditional bamboo bows",
+"Explanation": "Refers to Bhutanese archery competitions accompanied by singing and dancing",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 588
+},
+{
+"Prompt": "A traditional Nepalese celebration where living goddess Kumari is worshipped",
+"Explanation": "Refers to the Kumari tradition in Kathmandu Valley",
+"Category": "Cultural Knowledge",
+"Subcategory": "Religious Observance",
+"prompt_id": 589
+},
+{
+"Prompt": "A traditional Sri Lankan celebration where elephants parade in ornate costumes",
+"Explanation": "Refers to Esala Perahera in Kandy, a magnificent Buddhist festival",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 590
+},
+{
+"Prompt": "A traditional Maldivian celebration where traditional bodu beru drumming is performed",
+"Explanation": "Refers to Bodu Beru performances with rhythmic drumming and dancing",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 591
+},
+{
+"Prompt": "A traditional Bangladeshi celebration where rickshaws are decorated colorfully",
+"Explanation": "Refers to the art of rickshaw painting in Dhaka, a unique folk art form",
+"Category": "Cultural Knowledge",
+"Subcategory": "Arts",
+"prompt_id": 592
+},
+{
+"Prompt": "A traditional Pakistani celebration where truck art displays vibrant patterns",
+"Explanation": "Refers to Pakistani truck art, featuring elaborate decorations and calligraphy",
+"Category": "Cultural Knowledge",
+"Subcategory": "Arts",
+"prompt_id": 593
+},
+{
+"Prompt": "A traditional Afghan celebration where kite strings are coated with glass powder",
+"Explanation": "Refers to the Afghan kite fighting tradition using sharp manja string",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 594
+},
+{
+"Prompt": "A traditional Iranian celebration where people jump over fires for purification",
+"Explanation": "Refers to Chaharshanbe Suri, the fire jumping festival before Nowruz",
+"Category": "Cultural Knowledge",
+"Subcategory": "Festivals",
+"prompt_id": 595
+},
+{
+"Prompt": "A traditional Iraqi celebration where families picnic along the Tigris River",
+"Explanation": "Refers to Baghdad's riverside picnicking tradition, especially during holidays",
+"Category": "Cultural Knowledge",
+"Subcategory": "Tradition",
+"prompt_id": 596
+},
+{
+"Prompt": "A traditional Syrian celebration where families gather for meze small dishes",
+"Explanation": "Refers to the Syrian tradition of serving numerous meze appetizers",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 597
+},
+{
+"Prompt": "A traditional Lebanese celebration where dancers perform with finger cymbals",
+"Explanation": "Refers to Lebanese belly dancing tradition with sagat finger cymbals",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 598
+},
+{
+"Prompt": "A traditional Jordanian celebration where mansaf is eaten from a shared platter",
+"Explanation": "Refers to the national dish mansaf, traditionally eaten with the right hand",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 599
+},
+{
+"Prompt": "A traditional Palestinian celebration where embroidery features distinctive patterns",
+"Explanation": "Refers to Palestinian tatreez embroidery with regional symbolic patterns",
+"Category": "Cultural Knowledge",
+"Subcategory": "Crafts",
+"prompt_id": 600
+},
+{
+"Prompt": "A traditional Israeli celebration where the Torah is danced through streets",
+"Explanation": "Refers to Simchat Torah celebrations with hakafot processions",
+"Category": "Cultural Knowledge",
+"Subcategory": "Religious Observance",
+"prompt_id": 601
+},
+{
+"Prompt": "A traditional Egyptian celebration where colored lanterns illuminate streets",
+"Explanation": "Refers to Ramadan fanous lanterns decorating streets during the holy month",
+"Category": "Cultural Knowledge",
+"Subcategory": "Holidays",
+"prompt_id": 602
+},
+{
+"Prompt": "A traditional Libyan celebration where green flags are displayed for birthday of Prophet",
+"Explanation": "Refers to Mawlid al-Nabi celebrations with green decorations",
+"Category": "Cultural Knowledge",
+"Subcategory": "Religious Observance",
+"prompt_id": 603
+},
+{
+"Prompt": "A traditional Algerian celebration where couscous is served on Fridays",
+"Explanation": "Refers to the traditional Friday couscous meal in Algerian families",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 604
+},
+{
+"Prompt": "A traditional Tunisian celebration where harissa spice paste flavors dishes",
+"Explanation": "Refers to harissa, the essential chili paste in Tunisian cuisine",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 605
+},
+{
+"Prompt": "A traditional Moroccan celebration where mint tea is poured from height",
+"Explanation": "Refers to the Moroccan tea ceremony with high pouring to create foam",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 606
+},
+{
+"Prompt": "A traditional Mauritanian celebration where elaborate tents are set up for guests",
+"Explanation": "Refers to the traditional Bedouin hospitality with decorative tents",
+"Category": "Cultural Knowledge",
+"Subcategory": "Tradition",
+"prompt_id": 607
+},
+{
+"Prompt": "A traditional Malian celebration where bogolan mud cloth is worn",
+"Explanation": "Refers to traditional bogolanfini mud-dyed cloth with geometric patterns",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 608
+},
+{
+"Prompt": "A traditional Nigerien celebration where Tuareg men wear indigo veils",
+"Explanation": "Refers to the Tuareg tagelmust veils that sometimes stain skin blue",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 609
+},
+{
+"Prompt": "A traditional Chadian celebration where salamat musicians play traditional instruments",
+"Explanation": "Refers to traditional Chadian music with kinde drums and kakaki trumpets",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 610
+},
+{
+"Prompt": "A traditional Sudanese celebration where women wear toob full-length dresses",
+"Explanation": "Refers to the Sudanese toob, a colorful garment worn by women",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 611
+},
+{
+"Prompt": "A traditional South Sudanese celebration where cattle are decorated for ceremonies",
+"Explanation": "Refers to the importance of cattle in Dinka and Nuer cultures",
+"Category": "Cultural Knowledge",
+"Subcategory": "Tradition",
+"prompt_id": 612
+},
+{
+"Prompt": "A traditional Eritrean celebration where coffee is roasted with incense",
+"Explanation": "Refers to the Eritrean coffee ceremony with frankincense",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 613
+},
+{
+"Prompt": "A traditional Djiboutian celebration where lac Halal salt is traded",
+"Explanation": "Refers to the ancient salt trading traditions around Lake Assal",
+"Category": "Cultural Knowledge",
+"Subcategory": "Tradition",
+"prompt_id": 614
+},
+{
+"Prompt": "A traditional Somali celebration where women wear dirac dresses with shawls",
+"Explanation": "Refers to the Somali dirac, a lightweight dress worn with garbasaar headscarf",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 615
+},
+{
+"Prompt": "A traditional Ethiopian celebration where injera flatbread serves as plate and utensil",
+"Explanation": "Refers to the Ethiopian tradition of eating various stews on injera",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 616
+},
+{
+"Prompt": "A traditional Ugandan celebration where matooke steamed bananas are served",
+"Explanation": "Refers to matooke, the green banana staple of Ugandan cuisine",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 617
+},
+{
+"Prompt": "A traditional Rwandan celebration where intore dancers perform with spears",
+"Explanation": "Refers to traditional intore dance performances",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 618
+},
+{
+"Prompt": "A traditional Burundian celebration where royal drums are played in ceremony",
+"Explanation": "Refers to the sacred royal drum sanctuary in Gitega",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 619
+},
+{
+"Prompt": "A traditional Kenyan celebration where Maasai warriors perform jumping dances",
+"Explanation": "Refers to the Maasai adamu or jumping dance",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 620
+},
+{
+"Prompt": "A traditional Tanzanian celebration where Makonde people carve wood masks",
+"Explanation": "Refers to Makonde mapiko masks and shetani spirit carvings",
+"Category": "Cultural Knowledge",
+"Subcategory": "Crafts",
+"prompt_id": 621
+},
+{
+"Prompt": "A traditional Mozambican celebration where capulana wraps are worn as clothing",
+"Explanation": "Refers to the versatile capulana cloth used throughout Mozambique",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 622
+},
+{
+"Prompt": "A traditional Zambian celebration where Nshima corn porridge is eaten with hands",
+"Explanation": "Refers to nshima, the staple food eaten with relishes",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 623
+},
+{
+"Prompt": "A traditional Malawian celebration where Gule Wamkulu dancers wear elaborate costumes",
+"Explanation": "Refers to the Chewa Gule Wamkulu secret society dances",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 624
+},
+{
+"Prompt": "A traditional Zimbabwean celebration where stone sculpture artists work",
+"Explanation": "Refers to Zimbabwean Shona stone sculpture tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Arts",
+"prompt_id": 625
+},
+{
+"Prompt": "A traditional Botswanan celebration where San people practice trance healing dances",
+"Explanation": "Refers to San healing dances around community fires",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 626
+},
+{
+"Prompt": "A traditional Namibian celebration where Himba women coat skin with otjize paste",
+"Explanation": "Refers to Himba red ochre body treatment for beauty and sun protection",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beauty",
+"prompt_id": 627
+},
+{
+"Prompt": "A traditional Angolan celebration where semba dancers perform hip movements",
+"Explanation": "Refers to semba, the traditional dance that influenced samba",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 628
+},
+{
+"Prompt": "A traditional South African celebration where Zulu warriors perform with shields",
+"Explanation": "Refers to traditional Zulu dancing with shields and spears",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 629
+},
+{
+"Prompt": "A traditional Lesotho celebration where herd boys wear balaclavas and blankets",
+"Explanation": "Refers to the Basotho blanket tradition in mountain communities",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 630
+},
+{
+"Prompt": "A traditional Eswatini celebration where reed cutters gather materials for ceremony",
+"Explanation": "Refers to the Umhlanga Reed Dance preparation activities",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 631
+},
+{
+"Prompt": "A traditional Madagascar celebration where famadihana bone turning occurs",
+"Explanation": "Refers to the turning of the bones ceremony to honor ancestors",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 632
+},
+{
+"Prompt": "A traditional Comoros celebration where grand mariage ceremonies display wealth",
+"Explanation": "Refers to the elaborate and expensive grand marriage tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 633
+},
+{
+"Prompt": "A traditional Mauritius celebration where sega dancers perform hip-swaying dances",
+"Explanation": "Refers to Sega, the national dance with ravanne drums",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 634
+},
+{
+"Prompt": "A traditional Seychelles celebration where moutya drumming continues into night",
+"Explanation": "Refers to traditional moutya dance with hip movements and call-response",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 635
+},
+{
+"Prompt": "A traditional Réunion celebration where maloya music honors ancestors",
+"Explanation": "Refers to maloya, a UNESCO-recognized musical tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 636
+},
+{
+"Prompt": "A traditional Mayotte celebration where deba dances are performed by women",
+"Explanation": "Refers to traditional deba dances during wedding celebrations",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 637
+},
+{
+"Prompt": "A traditional Western Sahara celebration where camel races are held",
+"Explanation": "Refers to traditional camel racing in Sahrawi culture",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 638
+},
+{
+"Prompt": "A traditional Cape Verde celebration where funaná accordion music is played",
+"Explanation": "Refers to funaná, an energetic musical genre from Santiago Island",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 639
+},
+{
+"Prompt": "A traditional Guinea-Bissau celebration where gumbe music combines various influences",
+"Explanation": "Refers to gumbe, the country's primary music genre",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 640
+},
+{
+"Prompt": "A traditional Sierra Leone celebration where Bondo society initiates girls",
+"Explanation": "Refers to the Bondo/Sande female secret society ceremonies",
+"Category": "Cultural Knowledge",
+"Subcategory": "Ceremony",
+"prompt_id": 641
+},
+{
+"Prompt": "A traditional Liberian celebration where country cloth is worn for special occasions",
+"Explanation": "Refers to traditional hand-woven country cloth with striped patterns",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 642
+},
+{
+"Prompt": "A traditional Ivory Coast celebration where Zaouli mask dancers perform",
+"Explanation": "Refers to the Guro Zaouli mask dance tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 643
+},
+{
+"Prompt": "A traditional Ghana celebration where kente cloth weavers create intricate patterns",
+"Explanation": "Refers to Ashanti kente cloth with symbolic colors and designs",
+"Category": "Cultural Knowledge",
+"Subcategory": "Crafts",
+"prompt_id": 644
+},
+{
+"Prompt": "A traditional Togo celebration where Ewe drummers play complex rhythms",
+"Explanation": "Refers to Ewe drumming ensembles with multiple drum types",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 645
+},
+{
+"Prompt": "A traditional Benin celebration where Vodun practitioners wear white clothing",
+"Explanation": "Refers to Vodun ceremonies where participants dress in white",
+"Category": "Cultural Knowledge",
+"Subcategory": "Religious Observance",
+"prompt_id": 646
+},
+{
+"Prompt": "A traditional Nigeria celebration where Yoruba kings wear beaded crowns",
+"Explanation": "Refers to the Yoruba tradition of beaded crowns for obas (kings)",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 647
+},
+{
+"Prompt": "A traditional Cameroon celebration where Bamileke chiefs sit on carved thrones",
+"Explanation": "Refers to Bamileke royal art including elaborate beadwork and thrones",
+"Category": "Cultural Knowledge",
+"Subcategory": "Arts",
+"prompt_id": 648
+},
+{
+"Prompt": "A traditional Gabon celebration where Bwiti initiates consume iboga root",
+"Explanation": "Refers to Bwiti spiritual practices using the iboga plant",
+"Category": "Cultural Knowledge",
+"Subcategory": "Religious Observance",
+"prompt_id": 649
+},
+{
+"Prompt": "A traditional Republic of Congo celebration where Lari women wear pagnes",
+"Explanation": "Refers to the colorful pagnes (wrapper cloths) worn by Congolese women",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 650
+},
+{
+"Prompt": "A traditional Democratic Republic of Congo celebration where Kuba textiles are displayed",
+"Explanation": "Refers to Kuba raffia cloth with intricate cut-pile designs",
+"Category": "Cultural Knowledge",
+"Subcategory": "Crafts",
+"prompt_id": 651
+},
+{
+"Prompt": "A traditional Central African Republic celebration where Aka pygmies perform polyphonic music",
+"Explanation": "Refers to Aka polyphonic singing, recognized by UNESCO",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 652
+},
+{
+"Prompt": "A traditional Equatorial Guinea celebration where Bubi fishermen race canoes",
+"Explanation": "Refers to traditional Bubi canoe culture on Bioko Island",
+"Category": "Cultural Knowledge",
+"Subcategory": "Sports",
+"prompt_id": 653
+},
+{
+"Prompt": "A traditional São Tomé and Príncipe celebration where tchiloli theater is performed",
+"Explanation": "Refers to tchiloli, a medieval European play adapted with African elements",
+"Category": "Cultural Knowledge",
+"Subcategory": "Performing Arts",
+"prompt_id": 654
+},
+{
+"Prompt": "A traditional Burundi celebration where abatimbo drummers play in rotation",
+"Explanation": "Refers to the traditional drumming of Burundi with multiple drummers",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 655
+},
+{
+"Prompt": "A traditional Rwanda celebration where imigongo cow dung art decorates homes",
+"Explanation": "Refers to imigongo, geometric patterns made with cow dung",
+"Category": "Cultural Knowledge",
+"Subcategory": "Arts",
+"prompt_id": 656
+},
+{
+"Prompt": "A traditional Uganda celebration where barkcloth is made from mutuba trees",
+"Explanation": "Refers to Ugandan barkcloth, a UNESCO-recognized craft",
+"Category": "Cultural Knowledge",
+"Subcategory": "Crafts",
+"prompt_id": 657
+},
+{
+"Prompt": "A traditional Kenya celebration where sisal baskets are woven with beads",
+"Explanation": "Refers to Kamba basket weaving with colorful beadwork",
+"Category": "Cultural Knowledge",
+"Subcategory": "Crafts",
+"prompt_id": 658
+},
+{
+"Prompt": "A traditional Tanzania celebration where Tingatinga paintings depict animals",
+"Explanation": "Refers to Tingatinga art style with bright colors and naive style",
+"Category": "Cultural Knowledge",
+"Subcategory": "Arts",
+"prompt_id": 659
+},
+{
+"Prompt": "A traditional Mozambique celebration where marrabenta music gets people dancing",
+"Explanation": "Refers to marrabenta, the 'music of the snapped strings'",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 660
+},
+{
+"Prompt": "A traditional Zambia celebration where kalela dancers perform in mine compounds",
+"Explanation": "Refers to Kalela dance, a popular urban dance tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 661
+},
+{
+"Prompt": "A traditional Malawi celebration where vimbuza healing dances are performed",
+"Explanation": "Refers to Vimbuza, a healing dance ritual among the Tumbuka",
+"Category": "Cultural Knowledge",
+"Subcategory": "Dance",
+"prompt_id": 662
+},
+{
+"Prompt": "A traditional Zimbabwe celebration where mbira music summons ancestral spirits",
+"Explanation": "Refers to mbira dzavadzimu used in Shona spiritual ceremonies",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 663
+},
+{
+"Prompt": "A traditional Botswana celebration where San people practice rock painting",
+"Explanation": "Refers to ancient San rock art in the Tsodilo Hills",
+"Category": "Cultural Knowledge",
+"Subcategory": "Arts",
+"prompt_id": 664
+},
+{
+"Prompt": "A traditional Namibia celebration where Herero women wear Victorian-style dresses",
+"Explanation": "Refers to Herero dresses influenced by German colonial era",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 665
+},
+{
+"Prompt": "A traditional South Africa celebration where Xhosa women wear isicholo hats",
+"Explanation": "Refers to the Xhosa married women's hat tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 666
+},
+{
+"Prompt": "A traditional Lesotho celebration where mokorotlo hats are woven from grass",
+"Explanation": "Refers to the Basotho hat, a national symbol",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 667
+},
+{
+"Prompt": "A traditional Eswatini celebration where emahiya garments are tied distinctively",
+"Explanation": "Refers to the Swazi traditional dress with colorful wraps",
+"Category": "Cultural Knowledge",
+"Subcategory": "Clothing",
+"prompt_id": 668
+},
+{
+"Prompt": "A traditional Madagascar celebration where valiha bamboo zithers are played",
+"Explanation": "Refers to the valiha, the national instrument of Madagascar",
+"Category": "Cultural Knowledge",
+"Subcategory": "Music",
+"prompt_id": 669
+},
+{
+"Prompt": "A traditional Comoros celebration where ndzumara citrus fruit flavors dishes",
+"Explanation": "Refers to the use of ndzumara in Comorian cuisine",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 670
+},
+{
+"Prompt": "A traditional Mauritius celebration where dholl puri flatbread is served with curry",
+"Explanation": "Refers to dholl puri, a popular street food",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 671
+},
+{
+"Prompt": "A traditional Seychelles celebration where coconut curry is cooked with breadfruit",
+"Explanation": "Refers to la daube, a Seychellois coconut curry dish",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 672
+},
+{
+"Prompt": "A traditional Réunion celebration where rougail sausage spice paste flavors food",
+"Explanation": "Refers to rougail, a spicy condiment essential to Réunion cuisine",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 673
+},
+{
+"Prompt": "A traditional Mayotte celebration where mataba cassava leaves are cooked in coconut",
+"Explanation": "Refers to mataba, a traditional dish of shredded cassava leaves",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 674
+},
+{
+"Prompt": "A traditional Western Sahara celebration where mint tea is served three times",
+"Explanation": "Refers to the Sahrawi tea ceremony with three servings",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 675
+},
+{
+"Prompt": "A traditional Cape Verde celebration where cachupa stew simmers for hours",
+"Explanation": "Refers to cachupa, the national dish made with corn and beans",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 676
+},
+{
+"Prompt": "A traditional Guinea-Bissau celebration where caldo de mancarra peanut stew is served",
+"Explanation": "Refers to caldo de mancarra, a peanut-based stew",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 677
+},
+{
+"Prompt": "A traditional Sierra Leone celebration where groundnut soup is eaten with rice",
+"Explanation": "Refers to groundnut soup, a popular West African dish",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 678
+},
+{
+"Prompt": "A traditional Liberia celebration where jollof rice is cooked with palm oil",
+"Explanation": "Refers to Liberian jollof rice with distinct local variations",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 679
+},
+{
+"Prompt": "A traditional Ivory Coast celebration where attiéké grated cassava is served with fish",
+"Explanation": "Refers to attiéké, a fermented cassava couscous",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 680
+},
+{
+"Prompt": "A traditional Ghana celebration where banku fermented corn dough is eaten with soup",
+"Explanation": "Refers to banku, a sour fermented corn and cassava dough",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 681
+},
+{
+"Prompt": "A traditional Togo celebration where fufu pounded yam is dipped in sauce",
+"Explanation": "Refers to fufu, a staple food throughout West Africa",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 682
+},
+{
+"Prompt": "A traditional Benin celebration where ayimolou black-eyed pea fritters are fried",
+"Explanation": "Refers to ayimolou, a popular street food snack",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 683
+},
+{
+"Prompt": "A traditional Nigeria celebration where suya spicy grilled meat is sold on streets",
+"Explanation": "Refers to suya, a popular Nigerian street food",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 684
+},
+{
+"Prompt": "A traditional Cameroon celebration where ndolé bitterleaf stew is served",
+"Explanation": "Refers to ndolé, the national dish of Cameroon",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 685
+},
+{
+"Prompt": "A traditional Gabon celebration where nyembwe chicken in palm nut sauce is cooked",
+"Explanation": "Refers to poulet nyembwe, a classic Gabonese dish",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 686
+},
+{
+"Prompt": "A traditional Republic of Congo celebration where moambe chicken in palm sauce is served",
+"Explanation": "Refers to poulet moambe, a Central African classic",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 687
+},
+{
+"Prompt": "A traditional Democratic Republic of Congo celebration where fufu is made from cassava",
+"Explanation": "Refers to cassava fufu, a staple in DRC cuisine",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 688
+},
+{
+"Prompt": "A traditional Central African Republic celebration where koko leaf sauce is prepared",
+"Explanation": "Refers to sauce koko, a popular leafy green sauce",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 689
+},
+{
+"Prompt": "A traditional Equatorial Guinea celebration where succotash with peanut sauce is eaten",
+"Explanation": "Refers to local variations of peanut sauce dishes",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 690
+},
+{
+"Prompt": "A traditional São Tomé and Príncipe celebration where calulu fish stew is cooked",
+"Explanation": "Refers to calulu, a traditional fish and vegetable stew",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 691
+},
+{
+"Prompt": "A traditional Burundi celebration where beans and bananas are staple foods",
+"Explanation": "Refers to the importance of beans and plantains in Burundian diet",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 692
+},
+{
+"Prompt": "A traditional Rwanda celebration where brochettes grilled meat skewers are popular",
+"Explanation": "Refers to brochettes, a common street food and restaurant dish",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 693
+},
+{
+"Prompt": "A traditional Uganda celebration where rolex egg and chapati wrap is sold",
+"Explanation": "Refers to the Ugandan rolex, a popular street food",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 694
+},
+{
+"Prompt": "A traditional Kenya celebration where nyama choma grilled meat is enjoyed",
+"Explanation": "Refers to nyama choma, the Kenyan barbecue tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 695
+},
+{
+"Prompt": "A traditional Tanzania celebration where chipsi mayai egg and chips omelette is made",
+"Explanation": "Refers to chipsi mayai, a popular Tanzanian street food",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 696
+},
+{
+"Prompt": "A traditional Mozambique celebration where piri piri chili spices grilled chicken",
+"Explanation": "Refers to galinha à zambeziana, piri piri grilled chicken",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 697
+},
+{
+"Prompt": "A traditional Zambia celebration where ifisashi peanut and vegetable stew is served",
+"Explanation": "Refers to ifisashi, a traditional Zambian dish",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 698
+},
+{
+"Prompt": "A traditional Malawi celebration where chambo tilapia fish is grilled",
+"Explanation": "Refers to chambo, a popular fish from Lake Malawi",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 699
+},
+{
+"Prompt": "A traditional Zimbabwe celebration where sadza corn porridge is the staple food",
+"Explanation": "Refers to sadza, the Zimbabwean version of nshima/ugali",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 700
+},
+{
+"Prompt": "A traditional Botswana celebration where seswaa pounded meat is served",
+"Explanation": "Refers to seswaa, a traditional meat dish",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 701
+},
+{
+"Prompt": "A traditional Namibia celebration where biltong dried meat is a popular snack",
+"Explanation": "Refers to biltong, the Namibian dried meat tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 702
+},
+{
+"Prompt": "A traditional South Africa celebration where braai barbecue brings people together",
+"Explanation": "Refers to the South African braai culture",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 703
+},
+{
+"Prompt": "A traditional Lesotho celebration where motoho fermented sorghum porridge is drunk",
+"Explanation": "Refers to motoho, a traditional Basotho fermented drink",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 704
+},
+{
+"Prompt": "A traditional Eswatini celebration where emahewu fermented mealie drink is consumed",
+"Explanation": "Refers to emahewu, a non-alcoholic fermented maize drink",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 705
+},
+{
+"Prompt": "A traditional Madagascar celebration where ranovola burnt rice water is drunk",
+"Explanation": "Refers to ranovola, a beverage made from burnt rice",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 706
+},
+{
+"Prompt": "A traditional Comoros celebration where mtsamboro mangoes are enjoyed in season",
+"Explanation": "Refers to the seasonal enjoyment of local mango varieties",
+"Category": "Cultural Knowledge",
+"Subcategory": "Cuisine",
+"prompt_id": 707
+},
+{
+"Prompt": "A traditional Mauritius celebration where alouda milk drink with basil seeds is sold",
+"Explanation": "Refers to alouda, a popular Mauritian refreshment",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 708
+},
+{
+"Prompt": "A traditional Seychelles celebration where bacca rum is produced locally",
+"Explanation": "Refers to Seychellois rum production",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 709
+},
+{
+"Prompt": "A traditional Réunion celebration where rhum arrangé infused rum is made",
+"Explanation": "Refers to rhum arrangé, rum infused with tropical fruits and spices",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 710
+},
+{
+"Prompt": "A traditional Mayotte celebration where coco massage coconut oil is used",
+"Explanation": "Refers to traditional coconut oil production and use",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beauty",
+"prompt_id": 711
+},
+{
+"Prompt": "A traditional Western Sahara celebration where camel milk is consumed fresh",
+"Explanation": "Refers to the importance of camel milk in Sahrawi diet",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 712
+},
+{
+"Prompt": "A traditional Cape Verde celebration where grogue sugarcane spirit is produced",
+"Explanation": "Refers to grogue, the national alcoholic beverage",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 713
+},
+{
+"Prompt": "A traditional Guinea-Bissau celebration where caju cashew fruit wine is made",
+"Explanation": "Refers to caju wine production from cashew apples",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 714
+},
+{
+"Prompt": "A traditional Sierra Leone celebration where palm wine is tapped from trees",
+"Explanation": "Refers to palm wine tapping tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 715
+},
+{
+"Prompt": "A traditional Liberia celebration where ginger beer is homemade",
+"Explanation": "Refers to traditional ginger beer preparation",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 716
+},
+{
+"Prompt": "A traditional Ivory Coast celebration where bissap hibiscus tea is served cold",
+"Explanation": "Refers to bissap, a popular West African drink",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 717
+},
+{
+"Prompt": "A traditional Ghana celebration where sobolo hibiscus drink is enjoyed",
+"Explanation": "Refers to sobolo, the Ghanaian name for hibiscus tea",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 718
+},
+{
+"Prompt": "A traditional Togo celebration where tchakpallo millet beer is brewed",
+"Explanation": "Refers to traditional millet beer production",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 719
+},
+{
+"Prompt": "A traditional Benin celebration where tchoukoutou sorghum beer is consumed",
+"Explanation": "Refers to tchoukoutou, a traditional sorghum beer",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 720
+},
+{
+"Prompt": "A traditional Nigeria celebration where zobo hibiscus drink is popular",
+"Explanation": "Refers to zobo, the Nigerian name for hibiscus drink",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 721
+},
+{
+"Prompt": "A traditional Cameroon celebration where shaah tea is spiced with ginger",
+"Explanation": "Refers to spiced tea traditions in northern Cameroon",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 722
+},
+{
+"Prompt": "A traditional Gabon celebration where m'boundou palm wine is consumed",
+"Explanation": "Refers to traditional palm wine consumption",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 723
+},
+{
+"Prompt": "A traditional Republic of Congo celebration where lotoko moonshine is produced",
+"Explanation": "Refers to lotoko, a traditional distilled beverage",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 724
+},
+{
+"Prompt": "A traditional Democratic Republic of Congo celebration where malewu fermented drink is made",
+"Explanation": "Refers to malewu, a traditional fermented maize drink",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 725
+},
+{
+"Prompt": "A traditional Central African Republic celebration where ginger juice is prepared",
+"Explanation": "Refers to traditional ginger-based beverages",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 726
+},
+{
+"Prompt": "A traditional Equatorial Guinea celebration where osang tea is made from bark",
+"Explanation": "Refers to osang, a traditional herbal tea",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 727
+},
+{
+"Prompt": "A traditional São Tomé and Príncipe celebration where palm wine is consumed fresh",
+"Explanation": "Refers to fresh palm wine tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 728
+},
+{
+"Prompt": "A traditional Burundi celebration where urwarwa banana beer is brewed",
+"Explanation": "Refers to urwarwa, traditional banana beer",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 729
+},
+{
+"Prompt": "A traditional Rwanda celebration where ikigage sorghum beer is consumed",
+"Explanation": "Refers to ikigage, a traditional sorghum beer",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 730
+},
+{
+"Prompt": "A traditional Uganda celebration where malwa millet beer is shared from pots",
+"Explanation": "Refers to malwa, a traditional millet beer",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 731
+},
+{
+"Prompt": "A traditional Kenya celebration where mursik fermented milk is stored in gourds",
+"Explanation": "Refers to mursik, a Kalenjin fermented milk tradition",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 732
+},
+{
+"Prompt": "A traditional Tanzania celebration where wanzuki honey beer is brewed",
+"Explanation": "Refers to traditional honey-based alcoholic drinks",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 733
+},
+{
+"Prompt": "A traditional Mozambique celebration where sura coconut palm wine is tapped",
+"Explanation": "Refers to sura, coconut palm wine",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 734
+},
+{
+"Prompt": "A traditional Zambia celebration where munkoyo fermented drink is made",
+"Explanation": "Refers to munkoyo, a traditional fermented beverage",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 735
+},
+{
+"Prompt": "A traditional Malawi celebration where thobwa fermented drink is sold",
+"Explanation": "Refers to thobwa, a sweet fermented drink",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 736
+},
+{
+"Prompt": "A traditional Zimbabwe celebration where chibuku opaque beer is popular",
+"Explanation": "Refers to chibuku, a commercial sorghum beer",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 737
+},
+{
+"Prompt": "A traditional Botswana celebration where bojalwa sorghum beer is home-brewed",
+"Explanation": "Refers to bojalwa, traditional sorghum beer",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 738
+},
+{
+"Prompt": "A traditional Namibia celebration where oshikundu fermented drink is made",
+"Explanation": "Refers to oshikundu, a traditional millet drink",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 739
+},
+{
+"Prompt": "A traditional South Africa celebration where rooibos tea is grown and consumed",
+"Explanation": "Refers to rooibos, the national tea of South Africa",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 740
+},
+{
+"Prompt": "A traditional Lesotho celebration where joala sorghum beer is home-brewed",
+"Explanation": "Refers to joala, traditional Basotho beer",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 741
+},
+{
+"Prompt": "A traditional Eswatini celebration where emahewu non-alcoholic drink is consumed",
+"Explanation": "Refers to emahewu, a maize-based drink",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 742
+},
+{
+"Prompt": "A traditional Madagascar celebration where betsabetsa sugar cane spirit is produced",
+"Explanation": "Refers to betsabetsa, a traditional alcoholic beverage",
+"Category": "Cultural Knowledge",
+"Subcategory": "Beverages",
+"prompt_id": 743
+},
+{
+"Prompt": "A traditional Comoros celebration where essential oils like ylang-ylang are distilled",
+"Explanation": "Refers to perfume production in the Comoros",
+"Category": "Cultural Knowledge",
+"Subcategory": "Crafts",
+"prompt_id": 744
+},
+{
+"Prompt": "A traditional Mauritius celebration where vanilla is grown and processed",
+"Explanation": "Refers to Mauritian vanilla production",
+"Category": "Cultural Knowledge",
+"Subcategory": "Agriculture",
+"prompt_id": 745
+},
+{
+"Prompt": "A traditional Seychelles celebration where cinnamon is harvested",
+"Explanation": "Refers to cinnamon production in the Seychelles",
+"Category": "Cultural Knowledge",
+"Subcategory": "Agriculture",
+"prompt_id": 746
+},
+{
+"Prompt": "A traditional Réunion celebration where vetiver grass is grown for perfume",
+"Explanation": "Refers to perfume plant cultivation",
+"Category": "Cultural Knowledge",
+"Subcategory": "Agriculture",
+"prompt_id": 747
+},
+{
+"Prompt": "A traditional Mayotte celebration where cloves are harvested for spice",
+"Explanation": "Refers to clove production in Mayotte",
+"Category": "Cultural Knowledge",
+"Subcategory": "Agriculture",
+"prompt_id": 748
+},
+{
+"Prompt": "A traditional Western Sahara celebration where dates are harvested from oases",
+"Explanation": "Refers to date palm cultivation in desert oases",
+"Category": "Cultural Knowledge",
+"Subcategory": "Agriculture",
+"prompt_id": 749
+},
+{
+"Prompt": "A traditional Cape Verde celebration where coffee is grown in mountain valleys",
+"Explanation": "Refers to coffee cultivation in Cape Verde",
+"Category": "Cultural Knowledge",
+"Subcategory": "Agriculture",
+"prompt_id": 750
+}
+]

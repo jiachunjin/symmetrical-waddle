@@ -42,38 +42,37 @@ def generate():
     text_encoder = text_encoder.to(accelerator.device, dtype).eval()
 
     local_rank = accelerator.local_process_index
-    # path = "data/rewritten_wise/gemini_clean.jsonl"
+    path = "data/rewritten_wise/gemini_clean.jsonl"
 
-    # all_data = []
-    # with open(path, "r") as f:
-    #     for line in f:
-    #         data = json.loads(line)
-    #         pid = int(data["prompt_id"])
-    #         response = data["response"]
-    #         prompt = response
-    #         all_data.append((pid, prompt))
-
-    num_processes = accelerator.num_processes
-
-    local_data = []
-
-    with open(f"/data/phd/jinjiachun/codebase/symmetrical-waddle/data/re_wise_final/g{local_rank}.jsonl", "r") as f:
+    all_data = []
+    with open(path, "r") as f:
         for line in f:
             data = json.loads(line)
             pid = int(data["prompt_id"])
             response = data["response"]
-            # 把被大括号包起来的内容作为prompt
-            prompt = response.split("{")[1].split("}")[0]
-            print(pid, prompt)
+            prompt = response
+            all_data.append((pid, prompt))
 
-            local_data.append((pid, prompt))
+    num_processes = accelerator.num_processes
 
-    # chunk_size = (len(all_data) + num_processes - 1) // num_processes
-    # start_idx = local_rank * chunk_size
-    # end_idx = min((local_rank + 1) * chunk_size, len(all_data))
-    # local_data = all_data[start_idx:end_idx]
+    # local_data = []
+    # with open(f"/data/phd/jinjiachun/codebase/symmetrical-waddle/data/re_wise_final/g{local_rank}.jsonl", "r") as f:
+    #     for line in f:
+    #         data = json.loads(line)
+    #         pid = int(data["prompt_id"])
+    #         response = data["response"]
+    #         # 把被大括号包起来的内容作为prompt
+    #         prompt = response.split("{")[1].split("}")[0]
+    #         print(pid, prompt)
 
-    # print(f"GPU {local_rank}: 处理 {len(local_data)} 个样本 (索引 {start_idx}-{end_idx-1})")
+    #         local_data.append((pid, prompt))
+
+    chunk_size = (len(all_data) + num_processes - 1) // num_processes
+    start_idx = local_rank * chunk_size
+    end_idx = min((local_rank + 1) * chunk_size, len(all_data))
+    local_data = all_data[start_idx:end_idx]
+
+    print(f"GPU {local_rank}: 处理 {len(local_data)} 个样本 (索引 {start_idx}-{end_idx-1})")
 
     for pid, prompt in local_data:
         prompt_neg = [" "]
@@ -95,7 +94,7 @@ def generate():
             height                      = 512,
             width                       = 512,
         ).images[0]
-        save_name = f"/data/phd/jinjiachun/codebase/symmetrical-waddle/asset/gemini_flash_2047_two_encoder/{pid}.png"
+        save_name = f"/data/phd/jinjiachun/codebase/symmetrical-waddle/asset/gemini_prompt_1029_jjc_revised/{pid}.png"
 
         image.save(save_name)
 
