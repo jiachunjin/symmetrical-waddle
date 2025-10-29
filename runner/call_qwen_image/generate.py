@@ -57,7 +57,7 @@ def generate():
 
     local_data = []
 
-    with open(f"/data/phd/jinjiachun/codebase/symmetrical-waddle/data/rewritten_wise/after_sft/g{local_rank}.jsonl", "r") as f:
+    with open(f"/data/phd/jinjiachun/codebase/symmetrical-waddle/data/re_wise_final/g{local_rank}.jsonl", "r") as f:
         for line in f:
             data = json.loads(line)
             pid = int(data["prompt_id"])
@@ -79,7 +79,7 @@ def generate():
         prompt_neg = [" "]
         print(f"GPU {local_rank}: {pid} - {prompt}")
 
-        prompt_embeds, prompt_embeds_mask = encode([prompt], text_encoder)
+        prompt_embeds, prompt_embeds_mask = encode([prompt], pipe.text_encoder)
         prompt_embeds_neg, prompt_embeds_mask_neg = pipe._get_qwen_prompt_embeds(
             prompt                = prompt_neg,
             device                = accelerator.device,
@@ -95,8 +95,7 @@ def generate():
             height                      = 512,
             width                       = 512,
         ).images[0]
-
-        save_name = f"/data/phd/jinjiachun/codebase/qimagined-goggles/asset/gemini_flash_2047_full_oneencoder/{pid}.png"
+        save_name = f"/data/phd/jinjiachun/codebase/symmetrical-waddle/asset/gemini_flash_2047_two_encoder/{pid}.png"
 
         image.save(save_name)
 
