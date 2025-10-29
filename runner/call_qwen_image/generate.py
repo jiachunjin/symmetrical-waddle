@@ -35,14 +35,6 @@ def generate():
     accelerator = Accelerator()
     dtype = torch.bfloat16
 
-    pipe = QwenImagePipeline.from_pretrained("/data/phd/jinjiachun/ckpt/Qwen/Qwen-Image", torch_dtype=dtype)
-    pipe = pipe.to(accelerator.device, dtype)
-
-    text_encoder = Qwen2_5_VLForConditionalGeneration.from_pretrained("/data/phd/jinjiachun/experiment/sft_qwenvl/gemini_flash_2047_full")
-    text_encoder = text_encoder.to(accelerator.device, dtype).eval()
-
-    local_rank = accelerator.local_process_index
-    path = "data/rewritten_wise/gemini_clean.jsonl"
 
     all_data = []
     with open(path, "r") as f:
@@ -73,6 +65,12 @@ def generate():
     local_data = all_data[start_idx:end_idx]
 
     print(f"GPU {local_rank}: 处理 {len(local_data)} 个样本 (索引 {start_idx}-{end_idx-1})")
+
+    pipe = QwenImagePipeline.from_pretrained("/data/phd/jinjiachun/ckpt/Qwen/Qwen-Image", torch_dtype=dtype)
+    pipe = pipe.to(accelerator.device, dtype)
+
+    local_rank = accelerator.local_process_index
+    path = "data/rewritten_wise/gemini_clean.jsonl"
 
     for pid, prompt in local_data:
         prompt_neg = [" "]
