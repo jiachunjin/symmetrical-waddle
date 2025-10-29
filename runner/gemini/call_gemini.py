@@ -62,8 +62,11 @@ def construct_sft_data():
 def process_item(args):
     """处理单个数据项的函数"""
     item, prompt_template, output_file = args
-    pid = item["prompt_id"]
-    prompt = item["Prompt"]
+    # pid = item["prompt_id"]
+    # prompt = item["Prompt"]
+    pid = item["id"]
+    prompt = item["prompt"]
+    
     
     print(f"Processing prompt_id: {pid}")
     response = generate_with_gemini(prompt_template + prompt)
@@ -102,5 +105,41 @@ def rewrite_wise():
     with Pool(processes=num_processes) as pool:
         pool.map(process_item, args_list)
 
+def rewrite_sft_data():
+    from data.system_prompts.prompt import prompt_dict
+    PROMPT = prompt_dict["1029_jjc_revised"]
+    output_file = "/Users/orres/Playground/qimage/data/sft_data/1029_revised_sft.jsonl"
+
+    # 统计output_file中已有的prompt_id
+    processed_ids = set()
+    if os.path.exists(output_file):
+        with open(output_file, "r") as f:
+            for line in f:
+                if line.strip():
+                    processed_ids.add(json.loads(line)["prompt_id"])
+    print(f"已经处理了{len(processed_ids)}个id")
+
+    user_intructions = [
+        "/Users/orres/Playground/qimage/data/r2i/user_r2i_s600.jsonl",
+        "/Users/orres/Playground/qimage/data/selfgen/culture_gen.jsonl",
+    ]
+    all_items = []
+    for wise_file in user_intructions:
+        with open(wise_file, "r") as f:
+            for line in f:
+                data = json.loads(line)
+                if data["id"] not in processed_ids:
+                    all_items.append(data)
+
+    args_list = [(item, PROMPT, output_file) for item in all_items]
+
+    # 使用多进程处理
+    num_processes = min(mp.cpu_count(), 32)  # 限制最大进程数为4，避免API限制
+    print(f"Using {num_processes} processes to process {len(all_items)} items")
+    
+    with Pool(processes=num_processes) as pool:
+        pool.map(process_item, args_list)
+
 if __name__ == "__main__":
-    rewrite_wise()
+    # rewrite_wise()
+    rewrite_sft_data()
