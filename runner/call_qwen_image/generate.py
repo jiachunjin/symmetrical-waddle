@@ -1,3 +1,6 @@
+import os
+# import sys
+# sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 import torch
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoTokenizer
 
@@ -37,6 +40,7 @@ def generate():
 
 
     all_data = []
+    path = "data/rewritten_wise/gemini_1029_clean.jsonl"
     with open(path, "r") as f:
         for line in f:
             data = json.loads(line)
@@ -70,7 +74,6 @@ def generate():
     pipe = pipe.to(accelerator.device, dtype)
 
     local_rank = accelerator.local_process_index
-    path = "data/rewritten_wise/gemini_clean.jsonl"
 
     for pid, prompt in local_data:
         prompt_neg = [" "]
