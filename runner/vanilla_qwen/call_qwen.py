@@ -23,7 +23,7 @@ def rewrite_wise():
     num_processes = accelerator.num_processes
     local_rank = accelerator.local_process_index
 
-    output_file = "data/rewritten_wise/qwen_1029.jsonl"
+    output_file = "data/rewritten_wise/qwen_sft_2553.jsonl"
     wise_files = ["data/wise/cultural_common_sense.json", "data/wise/natural_science.json", "data/wise/spatio-temporal_reasoning.json"]
     
     # 收集所有需要处理的数据项
@@ -40,7 +40,7 @@ def rewrite_wise():
     print(f"GPU {local_rank}: 处理 {len(local_items)} 个样本 (索引 {start_idx}-{end_idx-1})")
 
     tokenizer = AutoTokenizer.from_pretrained("/data/phd/jinjiachun/ckpt/Qwen/Qwen-Image/tokenizer")
-    qwen = Qwen2_5_VLForConditionalGeneration.from_pretrained("/data/phd/jinjiachun/ckpt/Qwen/Qwen-Image/text_encoder")
+    qwen = Qwen2_5_VLForConditionalGeneration.from_pretrained("/data/phd/jinjiachun/experiment/sft_qwenvl/gemini_flash_2553")
     qwen = qwen.to(device, dtype)
     qwen.eval()
 
