@@ -1,6 +1,6 @@
 import os
-# import sys
-# sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 import torch
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoTokenizer
 
@@ -40,7 +40,7 @@ def generate():
 
 
     all_data = []
-    path = "data/rewritten_wise/gemini_1029_clean.jsonl"
+    path = "data/rewritten_wise/qwen_1029_clean.jsonl"
     with open(path, "r") as f:
         for line in f:
             data = json.loads(line)
@@ -94,7 +94,7 @@ def generate():
             height                      = 512,
             width                       = 512,
         ).images[0]
-        save_name = f"/data/phd/jinjiachun/codebase/symmetrical-waddle/asset/gemini_prompt_1029_jjc_revised/{pid}.png"
+        save_name = f"/data/phd/jinjiachun/codebase/symmetrical-waddle/asset/vanilla_qwen_prompt_1029_jjc_revised/{pid}.png"
 
         image.save(save_name)
 
