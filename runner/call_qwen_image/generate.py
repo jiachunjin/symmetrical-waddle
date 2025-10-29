@@ -62,7 +62,7 @@ def generate():
     #         print(pid, prompt)
 
     #         local_data.append((pid, prompt))
-
+    local_rank = accelerator.local_process_index
     chunk_size = (len(all_data) + num_processes - 1) // num_processes
     start_idx = local_rank * chunk_size
     end_idx = min((local_rank + 1) * chunk_size, len(all_data))
@@ -73,7 +73,6 @@ def generate():
     pipe = QwenImagePipeline.from_pretrained("/data/phd/jinjiachun/ckpt/Qwen/Qwen-Image", torch_dtype=dtype)
     pipe = pipe.to(accelerator.device, dtype)
 
-    local_rank = accelerator.local_process_index
 
     for pid, prompt in local_data:
         prompt_neg = [" "]
