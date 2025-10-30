@@ -34,10 +34,14 @@ def generate():
     import json
     from diffusers import QwenImagePipeline
     from accelerate import Accelerator
+    from transformers import Qwen2_5_VLForConditionalGeneration
 
     accelerator = Accelerator()
     dtype = torch.bfloat16
 
+    qwen = Qwen2_5_VLForConditionalGeneration.from_pretrained("/data/phd/jinjiachun/experiment/sft_qwenvl/gemini_flash_2553")
+    qwen = qwen.to(accelerator.device, dtype)
+    qwen.eval()
 
     all_data = []
     path = "data/rewritten_wise/qwen_1029_clean.jsonl"
@@ -78,7 +82,7 @@ def generate():
         prompt_neg = [" "]
         print(f"GPU {local_rank}: {pid} - {prompt}")
 
-        prompt_embeds, prompt_embeds_mask = encode([prompt], pipe.text_encoder)
+        prompt_embeds, prompt_embeds_mask = encode([prompt], qwen)
         prompt_embeds_neg, prompt_embeds_mask_neg = pipe._get_qwen_prompt_embeds(
             prompt                = prompt_neg,
             device                = accelerator.device,
@@ -94,7 +98,7 @@ def generate():
             height                      = 512,
             width                       = 512,
         ).images[0]
-        save_name = f"/data/phd/jinjiachun/codebase/symmetrical-waddle/asset/sfted_qwen_prompt_1029_jjc_revised/{pid}.png"
+        save_name = f"/data/phd/jinjiachun/codebase/symmetrical-waddle/asset/sfted_qwen_prompt_1029_jjc_revised_oneencoder/{pid}.png"
 
         image.save(save_name)
 
