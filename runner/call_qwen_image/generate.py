@@ -99,6 +99,19 @@ def generate():
 
         image.save(save_name)
 
+def extract_tmp():
+    import os
+    import json
+    for i in range(8):
+        with open(f"/data/phd/jinjiachun/codebase/symmetrical-waddle/data/rewritten_wise/qwen_1029_{i}.jsonl", "r") as f:
+            for line in f:
+                data = json.loads(line)
+                pid = int(data["prompt_id"])
+                response = data["response"]
+                # 把被大括号包起来的内容作为prompt
+                prompt = response.split("Revised Prompt")[1].strip()
+                print(pid, prompt)
 
 if __name__ == "__main__":
-    generate()
+    # generate()
+    extract_tmp()
