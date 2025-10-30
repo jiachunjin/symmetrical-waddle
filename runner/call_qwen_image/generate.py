@@ -61,7 +61,7 @@ def generate():
             # 把被大括号包起来的内容作为prompt
             prompt = response.split("Revised Prompt")[-1].strip()
             print(pid, prompt)
-    #         local_data.append((pid, prompt))
+            local_data.append((pid, prompt))
 
     # chunk_size = (len(all_data) + num_processes - 1) // num_processes
     # start_idx = local_rank * chunk_size
