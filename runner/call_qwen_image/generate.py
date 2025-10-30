@@ -59,7 +59,7 @@ def generate():
             pid = int(data["prompt_id"])
             response = data["response"]
             # 把被大括号包起来的内容作为prompt
-            prompt = response.split("Revised Prompt")[1].strip()
+            prompt = response.split("Revised Prompt")[-1].strip()
             print(pid, prompt)
     exit(0)
     #         local_data.append((pid, prompt))
@@ -102,16 +102,19 @@ def generate():
 def extract_tmp():
     import os
     import json
+    ll = 0
     for i in range(8):
-        with open(f"/data/phd/jinjiachun/codebase/symmetrical-waddle/data/rewritten_wise/qwen_1029_{i}.jsonl", "r") as f:
+        with open(f"/Users/orres/Playground/qimage/data/rewritten_wise/qwen_1029_{i}.jsonl", "r") as f:
             for line in f:
                 data = json.loads(line)
                 pid = int(data["prompt_id"])
                 response = data["response"]
                 # 把被大括号包起来的内容作为prompt
-                prompt = response.split("Revised Prompt")[1].strip()
+                prompt = response.split("Revised Prompt")[-1].strip()
+                # print(prompt)
                 print(pid, prompt)
-
+                ll += 1
+    print(ll)
 if __name__ == "__main__":
-    # generate()
-    extract_tmp()
+    generate()
+    # extract_tmp()
